@@ -1,4 +1,4 @@
-#New Year , New Goals!
+# New Year , New Goals!
 Great! but let me drink my tea right now! :)), this fun that you write goals in public! but I do!...
 First as a geek say hello to you and thanks for reading this page!
 ```
@@ -10,19 +10,21 @@ for (let people in mygoalsreader )
 
 ## goals for spring season (all is JS <3)
 
+- [] **Agile Development and Scrum** form `Pluralsight course` (TFS) and have alot of fun! ,		weeks:[all of times]
+
+- [] Learn **Test-Driven Development (TDD) ** in javaScript `"Test-Driven JavaScript Development"` weeks:[1] 
+
 - []  learn more about __ES5__!! I wana read this book : `"Eloquent JavaScript"`	 , weeks: [1,2] 
 
 - []  get Start with **ES6** - whit powerful tutorial : `"Pluralsight JavaScript Fundamentals For ES6"` 	, weeks: [1,2]
 
-- [] learn **NodeJS** - read an ebook   `???`  if you recomend intermedate book, this become me happy! 	, weeks:[1] + ES6
+- [] learn **NodeJS** - read an ebook   `???`  if you __#recomend__ intermediate book, this become me so happy! 	, weeks:[1] + ES6
 
 - [] learn **Mongodb** basic and advance consepts form `"Practical MongoDB book"` , week:[1] + ES6
 
 - [] Create a simple **social  network **! whit `"NodeJS By Example"` weeks[1,2,3,4] but with ES6
 
-- [] Learn **Test-Driven Development (TDD) ** in javaScript `"Test-Driven JavaScript Development"` weeks:[1] 
 
-- [] **Agile Development and Scrum** form `Pluralsight course` (TFS) and have alot of fun! ,		weeks:[all of times]
 
 ### Some descriptions!
 ...
@@ -31,9 +33,9 @@ for (let people in mygoalsreader )
 
 - [] learn **Angular 2** ???	, weeks:[1,2]
 
-- [] learn **Ionic   2** ???	, weeks:[1,2]
-
 - [] learn **TypeScript**  ???	, weeks:[1]
+
+- [] learn **Ionic   2** ???	, weeks:[1,2]
 
 - [] Create **Android App** ??? Apache Cordova + Ionic 2	, weeks:[1,2,3]		, also looking for great idea to create mobile app
 

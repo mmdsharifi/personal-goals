@@ -5,11 +5,11 @@ great job!
 
 ## goals for spring season
 
+- [] finish 504 words - lesson 10 - 42 ...	 [1,2,3,4,5]
 - [] Complite exam topics ...	 [1,2]
 - [] Start test topics ...	 [1,2,3]
 - [] global test in parse and getting ready ...	 [1,2]
 - [] geting start TOFEL degree after konkour
-- [] finish 504 words - lesson 10 - 42 ...	 [1,2,3,4,5]
 - [] ...
 
 ### Descriptions
