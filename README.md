@@ -14,7 +14,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [x] learn about Agile , Scurm (Intro)
+- [x] learn about Agile , Scurm (Intro) podcast
 - [x] learn about TDD in JavaScript form `Test-Driven JavaScript Development` book -  read chapter 1-3
 - [ ] Study SE (Software Eng.) chapter 6 - 10 (finish book) :boom:
 - [ ] Study FM (Fundition of Mnagement) chapter 5-8 with test
@@ -22,6 +22,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Study AI test chapter 1-4
 - [ ] Study AD (Algorithm Design) chapter 4,5
 - [ ] Study DB (DataBase) chapter 6 (finish book) :boom:
+- [x] mail to SE teacher
+- [ ] find a good ebook for lean Node.js , if you know recomend it. (I find this : Practical Node.js: Building Real-world Scalable Web Apps)
 
 ### Things I'll Do in the Future:
 

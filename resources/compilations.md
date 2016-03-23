@@ -1,3 +1,6 @@
+### Ionic
+- [Build a hybrid mobile app with Ionic, Cordova, Node.js, MongoDB, Redis, Ansible and Vagrant](http://martinmicunda.com/2015/04/10/build-ionic-photo-gallery-app-I/)
+
 ### All the Front End Things
 - [Beaqn](http://beaqn.in/frontend/)
 - [Fluent 2015 Resources](https://github.com/jeffersonlam/talks/tree/master/fluent-2015)
