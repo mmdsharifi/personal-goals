@@ -1,5 +1,5 @@
-# New goals for univercity and study
-I am a last term student in univercity, so I wana take apart in to konkour exam!
+# New goals for university and study
+I am a last term student in university, so I wana take apart in to konkour exam!
 great job!
 
 
@@ -30,4 +30,5 @@ great job!
 
 - [ ] go to one of tehran university! <3
 - [ ] study in e-commerce field
-- amazing thingss ... keep great works! 
+- amazing thingss ... 
+- keep great works! 
