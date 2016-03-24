@@ -23,7 +23,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Study AD (Algorithm Design) chapter 4,5
 - [ ] Study DB (DataBase) chapter 6 (finish book) :boom:
 - [x] mail to SE teacher
-- [ ] find a good ebook for lean Node.js , if you know recomend it. (I find this : Practical Node.js: Building Real-world Scalable Web Apps)
+- [x] find a good ebook for lean Node.js , if you know recomend it. (I find this : Beginning Node.js -- Apress)
 
 ### Things I'll Do in the Future:
 
@@ -39,7 +39,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 - [as Developer](https://github.com/mmdsharifi/personal-goals/blob/master/asDveloper.md)
 - [as Student](https://github.com/mmdsharifi/personal-goals/blob/master/asStudent.md)
------
+
 - [Apps & Other Projects](https://github.com/mmdsharifi/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
 - [Blog Post Ideas](https://github.com/mmdsharifi/personal-goals/blob/master/ideas-and-misc/blog-ideas.md)
 - [Backlog Reading List](https://github.com/mmdsharifi/personal-goals/tree/master/content-list)

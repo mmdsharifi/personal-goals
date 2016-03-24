@@ -20,6 +20,9 @@ for (let people in this.page )
 
 - [ ] learn **NodeJS** - read an ebook   `???`  if you __#recomend__ intermediate book, this become me so happy! 	, weeks:[1] + ES6
 
+	- [ ] Basics - from "`Beginning Node.js`"
+	- [ ] REST API - from "`RESTful Web API Design with Node.js`"
+
 - [ ] learn **Mongodb** basic and advance consepts form `"Practical MongoDB book"` , week:[1] + ES6
 
 - [ ] Create a simple **social  network **! whit `"NodeJS By Example"` weeks[1,2,3,4] but with ES6
