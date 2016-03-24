@@ -15,6 +15,8 @@ for (let people in this.page )
 - [ ] Learn **Test-Driven Development (TDD) ** in javaScript `"Test-Driven JavaScript Development"` weeks:[1] 
 
 - [ ]  learn more about __ES5__!! I wana read this book : `"Eloquent JavaScript"`	 , weeks: [1,2] 
+	
+	- [ ] js design patterns with addy osmani's book
 
 - [ ]  get Start with **ES6** - whit powerful tutorial : `"Pluralsight JavaScript Fundamentals For ES6"` 	, weeks: [1,2]
 
