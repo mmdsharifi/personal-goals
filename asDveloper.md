@@ -8,7 +8,7 @@ for (let people in this.page )
 }
 ```
 
-## goals for spring season (all is JS <3)
+## goals for spring season 
 
 - [ ] **Agile Development and Scrum** form `Pluralsight course` (TFS) and have alot of fun! ,		weeks:[all of times]
 
@@ -17,6 +17,7 @@ for (let people in this.page )
 - [ ]  learn more about __ES5__!! I wana read this book : `"Eloquent JavaScript"`	 , weeks: [1,2] 
 	
 	- [ ] js design patterns with addy osmani's book
+	- [ ] yeoman with yeoman fundamentals video
 
 - [ ]  get Start with **ES6** - whit powerful tutorial : `"Pluralsight JavaScript Fundamentals For ES6"` 	, weeks: [1,2]
 
@@ -28,7 +29,6 @@ for (let people in this.page )
 - [ ] learn **Mongodb** basic and advance consepts form `"Practical MongoDB book"` , week:[1] + ES6
 
 - [ ] Create a simple **social  network **! whit `"NodeJS By Example"` weeks[1,2,3,4] but with ES6
- 
 
 
 ### Some descriptions!

@@ -23,7 +23,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Study AD (Algorithm Design) chapter 4,5
 - [ ] Study DB (DataBase) chapter 6 (finish book) :boom:
 - [x] mail to SE teacher
-- [x] find a good ebook for lean Node.js , if you know recomend it. (I find this : Beginning Node.js -- Apress)
+- [x] find a good ebook for lean Node.js . (I find this : `Beginning Node.js` -- Apress)
 
 ### Things I'll Do in the Future:
 
@@ -34,6 +34,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Study  OS chap 4,6
 - [ ] Study  AD chap 6 , review 1-5
 - [ ] review DS chap 1-8
+- [ ] read "`Chapter 4: Developing the Model-View-Controller Layers	`from `"NodeJS By Example`
 
 ### Backlog: Side Projects & Other Ideas
 
