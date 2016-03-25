@@ -16,14 +16,15 @@ Personal goals made open source for accessibility across computers I use, transp
 
 - [x] learn about Agile , Scurm (Intro) podcast
 - [x] learn about TDD in JavaScript form `Test-Driven JavaScript Development` book -  read chapter 1-3
-- [ ] Study SE (Software Eng.) chapter 6 - 10 (finish book) :boom:
-- [ ] Study FM (Fundition of Mnagement) chapter 5-8 with test
+- [x] Study SE (Software Eng.) chapter 6 - 10 (finish book) :boom:
+- [x] Study FM (Fundition of Mnagement) chapter 5-8 with test
 - [ ] Study DS (Data Structures) chapter 6,8 with test
 - [ ] Study AI test chapter 1-4
 - [ ] Study AD (Algorithm Design) chapter 4,5
-- [ ] Study DB (DataBase) chapter 6 (finish book) :boom:
+- [x] Study DB (DataBase) chapter 6 (finish book) :boom:
 - [x] mail to SE teacher
 - [x] find a good ebook for lean Node.js . (I find this : `Beginning Node.js` -- Apress)
+- [ ] write a about how design and develope your life! in my blog (persian)
 
 ### Things I'll Do in the Future:
 
@@ -34,13 +35,12 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Study  OS chap 4,6
 - [ ] Study  AD chap 6 , review 1-5
 - [ ] review DS chap 1-8
-- [ ] read "`Chapter 4: Developing the Model-View-Controller Layers	`from `"NodeJS By Example`
+- [x] read "`Chapter 4: Developing the Model-View-Controller Layers	`from `"NodeJS By Example`
 
 ### Backlog: Side Projects & Other Ideas
 
 - [as Developer](https://github.com/mmdsharifi/personal-goals/blob/master/asDveloper.md)
 - [as Student](https://github.com/mmdsharifi/personal-goals/blob/master/asStudent.md)
-
 - [Apps & Other Projects](https://github.com/mmdsharifi/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
 - [Blog Post Ideas](https://github.com/mmdsharifi/personal-goals/blob/master/ideas-and-misc/blog-ideas.md)
 - [Backlog Reading List](https://github.com/mmdsharifi/personal-goals/tree/master/content-list)
