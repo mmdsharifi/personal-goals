@@ -8,26 +8,15 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things (web and mobile apps)
 5. Prioritize my Health
 
-# 6 farvardin (March 25, 2016)
+# 13 farvardin 
 
 ### This Week's Focus: Study
 
 ## Things I'll do This Week:
 
-- [x] learn about Agile , Scurm (Intro) podcast
-- [x] learn about TDD in JavaScript form `Test-Driven JavaScript Development` book -  read chapter 1-3
-- [x] Study SE (Software Eng.) chapter 6 - 10 (finish book) :boom:
-- [x] Study FM (Fundition of Mnagement) chapter 5-8 with test
 - [ ] Study DS (Data Structures) chapter 6,8 with test
 - [ ] Study AI test chapter 1-4
 - [ ] Study AD (Algorithm Design) chapter 4,5
-- [x] Study DB (DataBase) chapter 6 (finish book) :boom:
-- [x] mail to SE teacher
-- [x] find a good ebook for lean Node.js . (I find this : `Beginning Node.js` -- Apress)
-- [ ] write a about how design and develope your life! in my blog (persian)
-
-### Things I'll Do in the Future:
-
 - [ ] Study and test OS (Operation Systems) chapter 2,5
 - [ ] review SE with test from chapter 1 to 5		<--- write notes
 - [ ] review DB with test . chapter 1-3  	<--- write notes
@@ -35,7 +24,13 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Study  OS chap 4,6
 - [ ] Study  AD chap 6 , review 1-5
 - [ ] review DS chap 1-8
-- [x] read "`Chapter 4: Developing the Model-View-Controller Layers	`from `"NodeJS By Example`
+- [ ] Study DS (Data Structures) chapter 6,8 with test
+- [ ] Study AI test chapter 1-4
+- [ ] Study AD (Algorithm Design) chapter 4,5
+- [ ] write a about how design and develope your life! in my blog (persian)
+### Things I'll Do in the Future:
+[] ...
+
 
 ### Backlog: Side Projects & Other Ideas
 
