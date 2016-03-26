@@ -28,9 +28,10 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Study AI test chapter 1-4
 - [ ] Study AD (Algorithm Design) chapter 4,5
 - [ ] write a about how design and develope your life! in my blog (persian)
+- [ ] 504 words lesson 10 - 12
 ### Things I'll Do in the Future:
-[] ...
-
+- [ ] Search about BDD
+- [ ] 
 
 ### Backlog: Side Projects & Other Ideas
 
@@ -38,9 +39,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [as Student](https://github.com/mmdsharifi/personal-goals/blob/master/asStudent.md)
 - [Apps & Other Projects](https://github.com/mmdsharifi/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
 - [Blog Post Ideas](https://github.com/mmdsharifi/personal-goals/blob/master/ideas-and-misc/blog-ideas.md)
-- [Backlog Reading List](https://github.com/mmdsharifi/personal-goals/tree/master/content-list)
 
 
-# help me :smile:
+# help me 
 
-if you wana make me happy you can help me by forking this repo and sending your pull requests OR [open a new issue](https://github.com/mmdsharifi/personal-goals/issues/new).
+if you wana make me h:smile:ppy you can help me by forking this repo and sending your pull requests OR [open a new issue](https://github.com/mmdsharifi/personal-goals/issues/new).
