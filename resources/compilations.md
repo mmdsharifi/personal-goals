@@ -1,6 +1,6 @@
-### Ionic
+### Ionic 2
 - [Build a hybrid mobile app with Ionic, Cordova, Node.js, MongoDB, Redis, Ansible and Vagrant](http://martinmicunda.com/2015/04/10/build-ionic-photo-gallery-app-I/)
-
+- [ ] [Build Your First Mobile App With Ionic 2 & Angular 2](http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2/)
 ### All the Front End Things
 - [Beaqn](http://beaqn.in/frontend/)
 - [Fluent 2015 Resources](https://github.com/jeffersonlam/talks/tree/master/fluent-2015)
