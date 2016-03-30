@@ -30,8 +30,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] write a about how design and develope your life! in my blog (persian)
 - [ ] 504 words lesson 10 - 12
 ### Things I'll Do in the Future:
-- [ ] Search about BDD
-- [ ] 
+
 
 ### Backlog: Side Projects & Other Ideas
 

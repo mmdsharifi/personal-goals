@@ -1,7 +1,7 @@
 # New Year , New Goals!
 Great! but let me drink my tea right now! :)), this fun that you write goals in public! but I do!...
 First as a geek say hello to you and thanks for reading this page!
-```
+```js
 for (let people in this.page )
 {
 	people.sayHello(); // I am a ES6 lover :D

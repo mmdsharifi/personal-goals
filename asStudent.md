@@ -28,7 +28,6 @@ great job!
 
 ## goals for last 6 months of year
 
-- [ ] go to one of tehran university! <3
+- [ ] go to one of tehran university
 - [ ] study in e-commerce field
-- amazing thingss ... 
-- keep great works! 
+
