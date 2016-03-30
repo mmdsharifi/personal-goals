@@ -24,15 +24,16 @@ for (let people in this.page )
 - [ ] learn **NodeJS** - read an ebook   `???`  if you __#recomend__ intermediate book, this become me so happy! 	, weeks:[1] + ES6
 
 	- [ ] Basics - from "`Beginning Node.js`"
-	- [ ] REST API - from "`RESTful Web API Design with Node.js`"
+	- [ ] REST API - from "`RESTful Web API Design with Node.js`" + video REST API
 
 - [ ] learn **Mongodb** basic and advance consepts form `"Practical MongoDB book"` , week:[1] + ES6
 
 - [ ] Create a simple **social  network **! whit `"NodeJS By Example"` weeks[1,2,3,4] but with ES6
 
 
-### Some descriptions!
-...
+### Todos and another works
+- todo
+    -   add [pinpool](http://pinpool.ir) to my linkedin
 
 ## goals for summer season (all is ES6  <3)
 
@@ -53,8 +54,8 @@ for (let people in this.page )
 
 - UX
 - BigData
-- JS Framework with ES6
+- Create JS Framework with ES6
 - ...
 
 # help me !
-you can help me with forking this repo , and send your pull requests in a branch. thanks alot <3
+you can help me with forking this repo , and send your pull requests in a branch. thanks alot.

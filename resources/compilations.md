@@ -1,6 +1,15 @@
 ### Ionic 2
 - [Build a hybrid mobile app with Ionic, Cordova, Node.js, MongoDB, Redis, Ansible and Vagrant](http://martinmicunda.com/2015/04/10/build-ionic-photo-gallery-app-I/)
 - [ ] [Build Your First Mobile App With Ionic 2 & Angular 2](http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2/)
+- [ ] [Ionic tutorial](https://ccoenraets.github.io/ionic-tutorial/)
+- [ ] [Cordova tutorial](http://ccoenraets.github.io/cordova-tutorial/)
+
+### ES6
+
+- [ ] [Persian Tutorials in DotNetTips](http://www.dotnettips.info/newsarchive/news/9120)
+- [ ] [ES6 tutorial](http://ccoenraets.github.io/es6-tutorial/)
+- [ ] [understanding ES6](https://leanpub.com/understandinges6/read/)
+- [ ] [OO JavaScript](http://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/)
 ### All the Front End Things
 - [Beaqn](http://beaqn.in/frontend/)
 - [Fluent 2015 Resources](https://github.com/jeffersonlam/talks/tree/master/fluent-2015)
