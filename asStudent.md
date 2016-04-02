@@ -1,6 +1,5 @@
 # New goals for university and study
 I am a last term student in university, so I wana take apart in to konkour exam!
-great job!
 
 
 ## goals for spring season

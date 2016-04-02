@@ -1,14 +1,14 @@
 # Personal goals
 Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning.hope this repo make my life better! 
 
-# Overarching Goals for 1395 (2016):
+# Overarching Goals for 1395 (2016-17):
 1. JavaScript!
 2. Create a social network
 3. Bridge the Designer/Dev Gap
 4. Build a Lot of Things (web and mobile apps)
 5. Prioritize my Health
 
-# 13 farvardin 
+# 20 farvardin 
 
 ### This Week's Focus: Study
 
@@ -27,10 +27,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Study DS (Data Structures) chapter 6,8 with test
 - [ ] Study AI test chapter 1-4
 - [ ] Study AD (Algorithm Design) chapter 4,5
-- [ ] write a about how design and develope your life! in my blog (persian)
 - [ ] 504 words lesson 10 - 12
 ### Things I'll Do in the Future:
-
 
 ### Backlog: Side Projects & Other Ideas
 

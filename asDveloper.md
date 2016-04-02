@@ -10,6 +10,8 @@ for (let people in this.page )
 
 ## goals for spring season 
 
+- [ ] learn TypeScript from `dotnettips.info` articles
+
 - [ ] **Agile Development and Scrum** form `Pluralsight course` (TFS) and have alot of fun! ,		weeks:[all of times]
 
 - [ ] Learn **Test-Driven Development (TDD) ** in javaScript `"Test-Driven JavaScript Development"` weeks:[1] 
@@ -24,7 +26,7 @@ for (let people in this.page )
 - [ ] learn **NodeJS** - read an ebook   `???`  if you __#recomend__ intermediate book, this become me so happy! 	, weeks:[1] + ES6
 
 	- [ ] Basics - from "`Beginning Node.js`"
-	- [ ] REST API - from "`RESTful Web API Design with Node.js`" + video REST API
+	- [ ] REST API - from "`RESTful Web API Design with Node.js`" + video REST API via nodejs
 
 - [ ] learn **Mongodb** basic and advance consepts form `"Practical MongoDB book"` , week:[1] + ES6
 
@@ -37,15 +39,13 @@ for (let people in this.page )
 
 ## goals for summer season (all is ES6  <3)
 
+- [ ] Learn BDD
 - [ ] learn **Angular 2** ???	, weeks:[1,2]
-
 - [ ] learn **TypeScript**  ???	, weeks:[1]
-
 - [ ] learn **Ionic   2** ???	, weeks:[1,2]
+- [ ] Create **Android App** ??? Apache Cordova + Ionic 2	, weeks:[1,2,3]		
 
-- [ ] Create **Android App** ??? Apache Cordova + Ionic 2	, weeks:[1,2,3]		, also looking for great idea to create mobile app
-
-- [ ] pick a Js Framework and analysis it! to create a **JS framework** Huh are you ... :D
+- [ ] pick a Js Framework and analysis it! to create a **JS framework** 
 
 ### Some descriptions!
 ...

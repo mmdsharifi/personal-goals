@@ -5,8 +5,9 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 
 ## farvardin 1395 (March 2016)
 
+- [x] حکایت دولت و فرزانگی - ‫‪The‬‬ ‫‪Instant‬‬ ‫‪Millionaire‬‬ ‫–‬ ‫‪a‬‬ ‫‪Tale‬‬ ‫‪of‬‬ ‫‪Wisdom‬‬ ‫‪And‬‬ ‫‪Wealth‬‬ -- Mark fisher
 - [ ] Money, Master the Game -- Tony Robbins
-- [ ] [Talking with Tech Leads](https://www.goodreads.com/review/show/1221334358?utm_medium=api&utm_source=grid_widget)
+- [ ] [Talking with Tech Leads](https://www.goodreads.com/review/show/1221334358)
 
 
 To-Read/Recommendations:
