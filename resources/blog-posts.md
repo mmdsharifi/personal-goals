@@ -1,4 +1,7 @@
-
+### javascript
+- [ ][http://javascriptissexy.com/how-to-learn-javascript-properly/](How to Learn JavaScript Properly)
+- [ ][http://javascriptissexy.com/learn-intermediate-and-advanced-javascript/#more-921](Learn Intermediate and Advanced JavaScript)
+### React
 - [ ] [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 ### ES6
 - [ ] [Using ES6 with gulp](https://markgoodyear.com/2015/06/using-es6-with-gulp/)
