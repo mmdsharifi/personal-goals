@@ -1,4 +1,5 @@
 ### javascript
+- [ ][16 JavaScript Concepts JavaScript Professionals Must KnowWell](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
 - [ ][http://javascriptissexy.com/how-to-learn-javascript-properly/](How to Learn JavaScript Properly)
 - [ ][http://javascriptissexy.com/learn-intermediate-and-advanced-javascript/#more-921](Learn Intermediate and Advanced JavaScript)
 ### React

@@ -8,31 +8,29 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things (web and mobile apps)
 5. Prioritize my Health
 
-# 18 Ordibehesht (7 May)
+# 25 Ordibehesht (15 May)
 
-### This Week's Focus: ES5 basics
+### This Week's Focus: ES6 basics
 
 ## Things I'll do This Week:
-- [ ] ES5 Basics - form Eloquent JavaScript chapters 1-7
-- [ ] learn Ajax -
-- [ ] Wireframe for design course
-- [ ] analysis my UX books
-
-
-
+- [ ] learn Regular Expressions in JS
+- [ ] learn Advanced topics in JS
+- [ ] ES6 tutorial + dotnettips.info/ES6 + Pluralsight
+- [ ] Create Mean app
+- [ ] read unit 2 active reading book
+- [ ]
 ### This Week's Reading List:
 - [x][watch ng-conf 2016](http://www.youtube.com/watch?v=mAjjI35RcUE&t=42m01s)
-### Things I'll Do in the Future:
+- [ ][Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+- [ ][Advanced JavaScript](https://msdn.microsoft.com/en-us/library/b9w25k6f(v=vs.94).aspx)
 
+### Things I'll Do in the Future:
+- [ ] learn SVG + SVG animation
+- [ ] learn NodeJS
+- [ ] learn Ajax
 - [ ] [Persian Node js](http://learnfiles.com/downloads/%D8%AF%D9%88%D8%B1%D9%87-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%DB%8C-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-nodejs/)
 
-- [ ] learn ES6
-- [ ] learn Advanced topics in JS
-- [ ] learn NodeJS
-
-
 ### Backlog: Side Projects & Other Ideas
-
 - [as Developer](https://github.com/mmdsharifi/personal-goals/blob/master/asDveloper.md)
 - [as Student](https://github.com/mmdsharifi/personal-goals/blob/master/asStudent.md)
 - [Apps & Other Projects](https://github.com/mmdsharifi/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
@@ -40,5 +38,4 @@ Personal goals made open source for accessibility across computers I use, transp
 
 
 # help me
-
 if you wana make me h:smile:ppy you can help me by forking this repo and sending your pull requests OR [open a new issue](https://github.com/mmdsharifi/personal-goals/issues/new).

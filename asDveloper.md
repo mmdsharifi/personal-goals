@@ -9,25 +9,23 @@ for (let people in this.page )
 ```
 
 ## goals for spring season
-
-- [ ]  learn more about __ES5__!! I wana read this book : `"Eloquent JavaScript"`	 
-	- [ ] learn [Advance concepts of JavaScript] (http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
-	- [ ] js design patterns with addy osmani's book
-	- [ ] yeoman with yeoman fundamentals video
-	- [ ] learn Ajax from W3schools
 - [ ] finish ES6 tutorials - dotnettips.info & Pluralsight course
+- [ ] learn [Advance concepts of JavaScript] (http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
+- [ ] js design patterns with addy osmani's book
+- [ ] yeoman with yeoman fundamentals video
+- [ ] learn Ajax from W3schools
 - [ ] learn Typescript from `dotnettips.info` articles
-- [ ] learn work with views in ASP.net
+- [x] learn work with views in ASP.net
 - [ ] **Agile Development and Scrum** form `Pluralsight course` (TFS)
 - [ ] learn **NodeJS** - read an ebook  `Beginning Node.js`
-	- [ ] Basics - from "`Beginning Node.js`"
-	- [ ] REST API - from "`RESTful Web API Design with Node.js`" + video REST API via nodejs
-
+- [ ] Basics - from "`Beginning Node.js`"
+- [ ] REST API - from "`RESTful Web API Design with Node.js`" + video REST API via nodejs
 - [ ] learn **Mongodb** basic and advance consepts form `"Practical MongoDB book"`
 - [ ] Create a simple social  network  whit "NodeJS By Example"
-- [ ] read MicroIntractions book 
+- [ ] read MicroIntractions book
 
 ### Todos and another works
+
 - todo
     -   add [pinpool](http://pinpool.ir) to my linkedin
 
@@ -38,7 +36,7 @@ for (let people in this.page )
 - [ ] learn **TypeScript**  ???	, weeks:[1]
 - [ ] learn **Ionic   2** ???	, weeks:[1,2]
 - [ ] Create **Android App** ??? Apache Cordova + Ionic 2	, weeks:[1,2,3]		
-
+- [ ] learn Reactjs
 
 ### Some descriptions!
 ...
