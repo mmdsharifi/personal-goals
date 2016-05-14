@@ -18,7 +18,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] ES6 tutorial + dotnettips.info/ES6 + Pluralsight
 - [ ] Create Mean app
 - [ ] read unit 2 active reading book
-- [ ]
+- [ ] data minig - slide 20-54
 ### This Week's Reading List:
 - [x][watch ng-conf 2016](http://www.youtube.com/watch?v=mAjjI35RcUE&t=42m01s)
 - [ ][Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
