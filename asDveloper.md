@@ -9,7 +9,8 @@ for (let people in this.page )
 ```
 
 ## goals for spring season
-- [ ] finish ES6 tutorials - dotnettips.info & Pluralsight course
+
+- [x] finish ES6 tutorials - dotnettips.info & Pluralsight course
 - [ ] learn [Advance concepts of JavaScript] (http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
 - [ ] js design patterns with addy osmani's book
 - [ ] yeoman with yeoman fundamentals video
@@ -17,12 +18,14 @@ for (let people in this.page )
 - [ ] learn Typescript from `dotnettips.info` articles
 - [x] learn work with views in ASP.net
 - [ ] **Agile Development and Scrum** form `Pluralsight course` (TFS)
-- [ ] learn **NodeJS** - read an ebook  `Beginning Node.js`
+- [x] learn **NodeJS** - read an ebook  `Beginning Node.js`
 - [ ] Basics - from "`Beginning Node.js`"
 - [ ] REST API - from "`RESTful Web API Design with Node.js`" + video REST API via nodejs
 - [ ] learn **Mongodb** basic and advance consepts form `"Practical MongoDB book"`
 - [ ] Create a simple social  network  whit "NodeJS By Example"
 - [ ] read MicroIntractions book
+- [ ] learn **Angular 2**
+- [ ] learn **TypeScript**
 
 ### Todos and another works
 
@@ -32,10 +35,10 @@ for (let people in this.page )
 ## goals for summer season (all is ES6  <3)
 
 - [ ] Learn TDD and BDD
-- [ ] learn **Angular 2** ???	, weeks:[1,2]
-- [ ] learn **TypeScript**  ???	, weeks:[1]
-- [ ] learn **Ionic   2** ???	, weeks:[1,2]
-- [ ] Create **Android App** ??? Apache Cordova + Ionic 2	, weeks:[1,2,3]		
+- [ ] learn **Angular 2**
+- [ ] learn **TypeScript**  
+- [ ] learn **Ionic   2**
+- [ ] Create **Android App**  Apache Cordova + Ionic 2
 - [ ] learn Reactjs
 
 ### Some descriptions!

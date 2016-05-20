@@ -8,17 +8,20 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things (web and mobile apps)
 5. Prioritize my Health
 
-# 25 Ordibehesht (15 May)
+# 1 Khordad (15 May)
 
-### This Week's Focus: ES6 basics
+### This Week's Focus: Typescript
 
 ## Things I'll do This Week:
-- [ ] learn Regular Expressions in JS
-- [ ] learn Advanced topics in JS
-- [ ] ES6 tutorial + dotnettips.info/ES6 + Pluralsight
-- [ ] Create Mean app
-- [ ] read unit 2 active reading book
-- [ ] data minig - slide 20-54
+- [ ] finish dotnettips Typescript course
+- [ ] getting started with Angular 2
+- [ ] getting started Zana App - talk with Dr.tajbakhsh & Dr.Sarmady
+- [ ] getting ready for data mining mid-term exam
+- [ ] getting started NodeJS course -  nbperian book
+- [ ] read about gamification in design
+- [ ] redevelop my telegram bot with ES6
+- [ ] Create todo app with Angular 2 Typescript nodejs + Mongodb
+
 ### This Week's Reading List:
 - [x][watch ng-conf 2016](http://www.youtube.com/watch?v=mAjjI35RcUE&t=42m01s)
 - [ ][Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
