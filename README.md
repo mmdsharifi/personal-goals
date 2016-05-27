@@ -1,26 +1,25 @@
 # Personal goals
 Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning.hope this repo make my life better!
 
-# Overarching Goals for 1395 (2016):
+# Overarching Goals for 1395 (2016-17):
 1. JavaScript!
 2. Create a social network
 3. Bridge the Designer/Dev Gap
 4. Build a Lot of Things (web and mobile apps)
 5. Prioritize my Health
 
-# 1 Khordad (15 May)
+# 8 Khordad (28 May)
 
-### This Week's Focus: Typescript
+### This Week's Focus: Angular2,NodeJS/Express
 
 ## Things I'll do This Week:
-- [ ] finish dotnettips Typescript course
-- [ ] getting started with Angular 2
-- [ ] getting started Zana App - talk with Dr.tajbakhsh & Dr.Sarmady
-- [ ] getting ready for data mining mid-term exam
-- [ ] getting started NodeJS course -  nbperian book
+- [ ] getting started Node.JS course -  --nbperian book-- hassan azimi (parsclick.net)
 - [ ] read about gamification in design
 - [ ] redevelop my telegram bot with ES6
-- [ ] Create todo app with Angular 2 Typescript nodejs + Mongodb
+- [ ] NG2 and TS course : section 4-7
+- [ ] learn Express form parsclick.net course
+- [ ] getting ready for Micro LAB exam
+- [ ] read ‍‍‍ ‍‍`The Winner Stands Alone - Novel by Paulo Coelho` book
 
 ### This Week's Reading List:
 - [x][watch ng-conf 2016](http://www.youtube.com/watch?v=mAjjI35RcUE&t=42m01s)
