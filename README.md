@@ -17,8 +17,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] redevelop my telegram bot with ES6
 - [ ] learn Express form parsclick.net course
 - [ ] Active Reading unit 3
-- [ ] Complete Apapy project
-- [ ] Review LAB exams
+- [ ] Complete Apapy project (90%)
+- [x] Review LAB exams
 - [ ] getting started create a social network
 ### This Week's Reading List:
 - [x][watch ng-conf 2016](http://www.youtube.com/watch?v=mAjjI35RcUE&t=42m01s)
