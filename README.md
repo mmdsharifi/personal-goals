@@ -13,14 +13,13 @@ Personal goals made open source for accessibility across computers I use, transp
 ### This Week's Focus: Angular2,NodeJS/Express
 
 ## Things I'll do This Week:
-- [ ] getting started Node.JS course -  --nbperian book-- hassan azimi (parsclick.net)
 - [ ] read about gamification in design
 - [ ] redevelop my telegram bot with ES6
-- [ ] NG2 and TS course : section 4-7
 - [ ] learn Express form parsclick.net course
-- [ ] getting ready for Micro LAB exam
-- [ ] read ‍‍‍ ‍‍`The Winner Stands Alone - Novel by Paulo Coelho` book
-
+- [ ] Active Reading unit 3
+- [ ] Complete Apapy project
+- [ ] Review LAB exams
+- [ ] getting started create a social network
 ### This Week's Reading List:
 - [x][watch ng-conf 2016](http://www.youtube.com/watch?v=mAjjI35RcUE&t=42m01s)
 - [ ][Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)

@@ -1,1 +1,2 @@
 - [ ] How I learn MEAN JS stack ?
+- [ ] Create 5 min tutorial video 
