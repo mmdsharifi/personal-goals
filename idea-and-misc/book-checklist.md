@@ -8,7 +8,7 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 - [x] حکایت دولت و فرزانگی - ‫‪The‬‬ ‫‪Instant‬‬ ‫‪Millionaire‬‬ ‫–‬ ‫‪a‬‬ ‫‪Tale‬‬ ‫‪of‬‬ ‫‪Wisdom‬‬ ‫‪And‬‬ ‫‪Wealth‬‬ -- Mark fisher
 - [ ] Money, Master the Game -- Tony Robbins
 - [ ] [Talking with Tech Leads](https://www.goodreads.com/review/show/1221334358)
-
+- [x] [pretotyping](http://pretotyping.ir/)  -- alberto savoia
 
 To-Read/Recommendations:
 ---
@@ -17,9 +17,9 @@ To-Read/Recommendations:
 
 -- from @una book checklist
 - [ ] Lean UX -- Jeff Gothelf
-- [ ] All the Light we Cannot See -- Anthony Doerr 
-- [ ] Weaving the Web -- Tim Berners-Lee 
-- [ ] Ready Player One -- Ernest Cline 
+- [ ] All the Light we Cannot See -- Anthony Doerr
+- [ ] Weaving the Web -- Tim Berners-Lee
+- [ ] Ready Player One -- Ernest Cline
 - [ ] Digital Wars: Apple, Google, Microsoft and the Battle for the Internet -- Charles Arthur
 - [ ] CSS Secrets -- Lea Verou
-- [ ] No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State -- Glen Greenwald 
+- [ ] No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State -- Glen Greenwald
