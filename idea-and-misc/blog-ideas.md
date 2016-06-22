@@ -1,2 +1,3 @@
 - [ ] How I learn MEAN JS stack ?
-- [ ] Create 5 min tutorial video 
+- [ ] Create 5 min tutorial video
+- [ ] JS design patterns

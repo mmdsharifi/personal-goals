@@ -14,35 +14,34 @@ for (let people in this.page )
 - [x] learn work with views in ASP.net
 - [x] learn Typescript from `dotnettips.info` articles
 - [x] learn **NodeJS** - read an ebook  `Beginning Node.js`
-- [ ] learn Ajax from W3schools
-- [ ] learn **Angular 2**
-- [ ] Basics - from "`Beginning Node.js`"
-- [ ] REST API - from "`RESTful Web API Design with Node.js`" + video REST API via nodejs
-- [ ] learn **Mongodb** basic and advance consepts form `"Practical MongoDB book"`
-
+- [x] learn **Angular 2**
+- [x] Basics - from "`Beginning Node.js`"
+- [x] **Agile Development and Scrum** form `Pluralsight course` (TFS)
 ### Todo s and another works
 
 - todo
     -   add [pinpool](http://pinpool.ir) to my linkedin
 
 ## goals for summer season
-- [ ] flexbox layout
-- [ ] Learn TDD and BDD
-- [ ] learn **Angular 2**
-- [ ] learn **Ionic   2**
-- [ ] Create **Android App**  Apache Cordova + Ionic 2
-- [ ] learn Reactjs
-- [ ] Create a simple social  network  whit "NodeJS By Example"
-- [ ] read MicroIntractions book
-- [ ] yeoman with yeoman fundamentals video
-- [ ] **Agile Development and Scrum** form `Pluralsight course` (TFS)
-- [ ] learn [Advance concepts of JavaScript] (http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
 - [ ] js design patterns with addy osmani's book
-
+- [ ] Read micro intractions book
+- [ ] REST API - from "`RESTful Web API Design with Node.js`" + video REST API via nodejs
+- [ ] learn **Mongodb** basic and advance concepts form `"Practical MongoDB book"`
+- [ ] flexbox layout
+- [ ] learm more about UX
+- [ ] Create a simple social  network  whit "NodeJS By Example"
+- [ ] learn [Advance concepts of JavaScript] (http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
+- [ ] write a free a book for share my experience !  
 ### Some descriptions!
 ...
 
 ## goals for last 6 month of year!
+- [ ] learn **Ionic   2**
+- [ ] Create **Android App**  Apache Cordova + Ionic 2
+- [ ] learn Reactjs with parsclick.net tutorialss
+- [ ] learn yeoman with yeoman fundamentals video
+- [ ] Learn TDD and BDD
+- [ ] learn Ajax from W3schools
 ### Backlog
 - UX
 - BigData

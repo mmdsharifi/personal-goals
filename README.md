@@ -8,18 +8,18 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things (web and mobile apps)
 5. Prioritize my Health
 
-# 8 Khordad (28 May)
+# 4 Tir
 
-### This Week's Focus: Angular2,NodeJS/Express
-
+### This Week's Focus:  MEAN JS
+- [ ] update plan of summer's season
+- [ ] study SE2 exams
+- [ ] translate JS the right way to Persian
+- [ ] draw sketchs of socail network
+- [ ] learn MongoDB and start Skill share project
+- [ ] Study university book ... :|
+- [ ] read Active Reading Unit 2 - chapter 2 and review Unit 1
 ## Things I'll do This Week:
-- [ ] read about gamification in design
-- [ ] redevelop my telegram bot with ES6
-- [ ] learn Express form parsclick.net course
-- [ ] Active Reading unit 3
-- [ ] Complete Apapy project (90%)
-- [x] Review LAB exams
-- [ ] getting started create a social network
+
 ### This Week's Reading List:
 - [x][watch ng-conf 2016](http://www.youtube.com/watch?v=mAjjI35RcUE&t=42m01s)
 - [ ][Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
@@ -29,7 +29,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] learn SVG + SVG animation
 - [ ] learn NodeJS
 - [ ] learn Ajax
-- [ ] [Persian Node js](http://learnfiles.com/downloads/%D8%AF%D9%88%D8%B1%D9%87-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%DB%8C-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-nodejs/)
+- [ ] Persian Node js](http://learnfiles.com/downloads/%D8%AF%D9%88%D8%B1%D9%87-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%DB%8C-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-nodejs/)
 
 ### Backlog: Side Projects & Other Ideas
 - [as Developer](https://github.com/mmdsharifi/personal-goals/blob/master/asDveloper.md)
