@@ -7,10 +7,11 @@ Personal goals made open source for accessibility across computers I use, transp
 3. Bridge the Designer/Dev Gap
 4. Build a Lot of Things (web and mobile apps)
 5. Prioritize my Health
+6. Get best result in Master's degree entrance exam  (konkour 96)
 
 # 4 Tir
 
-### This Week's Focus:  MEAN JS
+### This Week's Focus:  Sketching
 - [ ] update plan of summer's season
 - [ ] study SE2 exams
 - [ ] translate JS the right way to Persian
