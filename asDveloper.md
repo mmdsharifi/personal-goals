@@ -25,28 +25,30 @@ for (let people in this.page )
 ## goals for summer season
 - [ ] js design patterns with addy osmani's book
 - [ ] Read micro intractions book
-- [ ] REST API - from "`RESTful Web API Design with Node.js`" + video REST API via nodejs
+- [x] REST API - from "`RESTful Web API Design with Node.js`" + video REST API via nodejs
 - [ ] learn **Mongodb** basic and advance concepts form `"Practical MongoDB book"`
 - [ ] flexbox layout
 - [ ] learm more about UX
 - [ ] Create a simple social  network  whit "NodeJS By Example"
 - [ ] learn [Advance concepts of JavaScript] (http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
-- [ ] write a free a book for share my experience !  
+- [ ] learn **React JS**
+- [ ] Create **Android App**  React Native
+- [ ] learn React JS with parsclick.net tutorials
+- [ ] SVG and CSS3 animations.
 ### Some descriptions!
 ...
 
 ## goals for last 6 month of year!
-- [ ] learn **Ionic   2**
-- [ ] Create **Android App**  Apache Cordova + Ionic 2
-- [ ] learn Reactjs with parsclick.net tutorialss
+
 - [ ] learn yeoman with yeoman fundamentals video
 - [ ] Learn TDD and BDD
-- [ ] learn Ajax from W3schools
+- [ ] learn electron
+- [ ] write a free a book for share my experience !  
 ### Backlog
 - UX
 - BigData
+- Mongoist!
 - Create JS Framework with ES6
-- learn reactjs
 - pick a Js Framework and analysis it! to create a **JS framework**
 - Learn Test-Driven Development (TDD)  in javaScript `"Test-Driven JavaScript Development"`
 
