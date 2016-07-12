@@ -19,7 +19,7 @@ read this stack overflow question :[Choosing a technology stack for Desktop + Mo
 - [ ] JavaScript design patterns - [^](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
 - [ ] React JS - concepts
 - [ ] React Native for mobile development - [^](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes)
-- [ ] electron desktop application
+- [ ] electron desktop application - [^](http%3A%2F%2Fwww.juxt.com%2Fpov%2Fthoughts%2Fbuilding-native-desktop-apps-with-web-tech)
 - [ ] Node.JS server side JS
 - [ ] Express
 - [ ] MongoDB
@@ -27,6 +27,8 @@ read this stack overflow question :[Choosing a technology stack for Desktop + Mo
 - [ ] total.js a framework for Node.JS
 - [ ] Angular
 - [ ] Vue JS
+- [ ] IoT
 
 ## resources
 - [scotch tutorials](https://scotch.io/tutorials)
+- [awesome front end]()

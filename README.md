@@ -14,8 +14,8 @@ Personal goals made open source for accessibility across computers I use, transp
 ### This Week's Focus:  Introduction to React JS
 
 ## Things I'll do This Week:
-- [ ] Do data mining Projects
-- [ ] Learn RavenDB - and do a C# project with it.
+- [x] Do data mining Projects
+- [x] Learn RavenDB - and do a C# project with it.
 - [ ] Start learn ReactJS with [this post](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 - [ ] Learn React JS parsclick.net tutorials
 - [ ] KetabT read 1 chapter every day
@@ -30,9 +30,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ### Things I'll Do in the Future:
 - [ ] learn SVG + SVG animation
-- [ ] learn NodeJS
-- [ ] learn Ajax
-- [ ] [Persian Node js](http://learnfiles.com/downloads/%D8%AF%D9%88%D8%B1%D9%87-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%DB%8C-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-nodejs/)
+- [ ] REST API with mongodb and Node.JS
 
 ### Backlog: Side Projects & Other Ideas
 - [as Developer](https://github.com/mmdsharifi/personal-goals/blob/master/asDveloper.md)
