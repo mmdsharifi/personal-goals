@@ -20,7 +20,7 @@ Study hard for konkour exam 96 :sunglasses:
 - [ ] finish 504 words - lesson 12 - 42 ...	 [1,2,3,4,5]
 - [ ] complite final project as my statup project! a web app + mobile app
 - [ ] get best scores in last term :D
-- [ ] Read 50% Discrete math and computer architecture 
+- [ ] Read 50% Discrete math and computer architecture
 
 ### Descriptions
 ...
@@ -28,4 +28,3 @@ Study hard for konkour exam 96 :sunglasses:
 ## goals for last 6 months of year
 
 - [ ] go to one of tehran university
-- [ ] study in e-commerce field
