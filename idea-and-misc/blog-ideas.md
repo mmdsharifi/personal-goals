@@ -28,7 +28,9 @@ read this stack overflow question :[Choosing a technology stack for Desktop + Mo
 - [ ] Angular
 - [ ] Vue JS
 - [ ] IoT
+- [ ] MEAN(MEARN) js stack
+- [ ] JS and Node.JS Unit Testing - TDD & BDD
 
 ## resources
 - [scotch tutorials](https://scotch.io/tutorials)
-- [awesome front end]()
+- [awesome front end](https://github.com/sindresorhus/awesome#front-end-development)
