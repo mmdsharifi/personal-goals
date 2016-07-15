@@ -4,6 +4,7 @@
 - [ ][http://javascriptissexy.com/learn-intermediate-and-advanced-javascript/#more-921](Learn Intermediate and Advanced JavaScript)
 ### React
 - [ ] [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
+- [Top 5 Tutorials](http://andrewhfarmer.com/getting-started-tutorials/)
 ### ES6
 - [ ] [Using ES6 with gulp](https://markgoodyear.com/2015/06/using-es6-with-gulp/)
 - [ ] [jsbooks](http://jsbooks.revolunet.com/)

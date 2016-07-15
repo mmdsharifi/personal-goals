@@ -11,17 +11,18 @@ Personal goals made open source for accessibility across computers I use, transp
 
 # 19 Tir
 
-### This Week's Focus:  Introduction to React JS
+### This Week's Focus:  Google Web Fundamentals
 
 ## Things I'll do This Week:
-- [x] Do data mining Projects
-- [x] Learn RavenDB - and do a C# project with it.
-- [ ] Start learn ReactJS with [this post](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
-- [ ] Learn React JS parsclick.net tutorials
-- [ ] KetabT read 1 chapter every day
-- [ ] Active Reading read 1 chapter every day
-- [ ] Finish chapter 1 DM
-- [ ] Finish 3 video of Sharif university CA (Computer Architecture) + note
+- [ ] [Google Web Fundamentals - Getting started](https://developers.google.com/web/fundamentals/getting-started/?hl=en)
+- [ ] read : designing for performance book - every day 1 chpater
+- [ ] Draw Sketch of product, category page
+- [ ] KetabT 1 chapter every day
+- [ ] English : Active Reading - 1 chpater every day
+- [ ] HQ - 30 min every morning
+- [ ] finish chapter 1 DM + test 20
+- [ ] test chapter 2 + video 5,6
+- [ ] learn SVG from w3schools
 
 ### This Week's Reading List:
 - [x] [watch ng-conf 2016](http://www.youtube.com/watch?v=mAjjI35RcUE&t=42m01s)
