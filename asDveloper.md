@@ -14,7 +14,7 @@ for (let people in this.page )
 - [x] learn work with views in ASP.net
 - [x] learn Typescript from `dotnettips.info` articles
 - [x] learn **NodeJS** - read an ebook  `Beginning Node.js`
-- [x] learn **Angular 2**
+- [x] learn **Angular 2** -- 50٪ -- 
 - [x] Basics - from "`Beginning Node.js`"
 - [x] **Agile Development and Scrum** form `Pluralsight course` (TFS)
 ### Todo s and another works
@@ -23,25 +23,29 @@ for (let people in this.page )
     -   add [pinpool](http://pinpool.ir) to my linkedin
 
 ## goals for summer season
-- [ ] js design patterns with addy osmani's book
-- [ ] Read micro intractions book
-- [x] REST API - from "`RESTful Web API Design with Node.js`" + video REST API via nodejs
+- [ ] REST API - from "`RESTful Web API Design with Node.js`" + video REST API via nodejs
 - [ ] learn **Mongodb** basic and advance concepts form `"Practical MongoDB book"`
 - [ ] flexbox layout
 - [ ] learm more about UX
+- [ ] web performance
+- [ ] Read micro intractions book
+- [ ] SVG and CSS3 animations.
+
+### Some descriptions!
+I wana be a React developer in 6 month later after than React Native!
+
+## goals for Fall season
+- [ ] js design patterns with addy osmani's book
 - [ ] Create a simple social  network  whit "NodeJS By Example"
 - [ ] learn [Advance concepts of JavaScript] (http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
 - [ ] learn **React JS**
-- [ ] Create **Android App**  React Native
 - [ ] learn React JS with parsclick.net tutorials
-- [ ] SVG and CSS3 animations.
-### Some descriptions!
-...
 
-## goals for last 6 month of year!
+## goals for last 3 month of year!
 
 - [ ] learn yeoman with yeoman fundamentals video
 - [ ] Learn TDD and BDD
+- [ ] Create **Android App**  React Native
 - [ ] learn electron
 - [ ] write a free a book for share my experience !  
 ### Backlog
