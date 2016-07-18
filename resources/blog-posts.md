@@ -2,6 +2,7 @@
 - [ ][16 JavaScript Concepts JavaScript Professionals Must KnowWell](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
 - [ ][http://javascriptissexy.com/how-to-learn-javascript-properly/](How to Learn JavaScript Properly)
 - [ ][http://javascriptissexy.com/learn-intermediate-and-advanced-javascript/#more-921](Learn Intermediate and Advanced JavaScript)
+- [ ][ES6 for humans](https://github.com/metagrover/ES6-for-humans)
 ### React
 - [ ] [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 - [Top 5 Tutorials](http://andrewhfarmer.com/getting-started-tutorials/)
