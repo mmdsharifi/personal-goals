@@ -9,30 +9,28 @@ Personal goals made open source for accessibility across computers I use, transp
 5. Prioritize my Health
 6. Get best result in Master's degree entrance exam  (konkour 96) 😎
 
-# 19 Tir
+# 2 Mordad
 
-### This Week's Focus:  Google Web Fundamentals
+### This Week's Focus:  performance
 
 ## Things I'll do This Week:
 - [ ] [Google Web Fundamentals - Getting started](https://developers.google.com/web/fundamentals/getting-started/?hl=en)
-- [ ] read : designing for performance book - every day 1 chpater
-- [ ] Draw Sketch of product, category page
 - [ ] KetabT 1 chapter every day
-- [ ] English : Active Reading - 1 chpater every day
+- [ ] English : Active Reading - 1 chapter every day
 - [ ] HQ - 30 min every morning
 - [ ] finish chapter 1 DM + test 20
 - [ ] test chapter 2 + video 5,6
-- [ ] learn SVG from w3schools
+- [ ] read : designing for performance book - every day 1 chapter
+- [ ] Draw Sketch of product, category page
 
 ### This Week's Reading List:
-- [x] [watch ng-conf 2016](http://www.youtube.com/watch?v=mAjjI35RcUE&t=42m01s)
 - [ ] [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 - [ ] [Advanced JavaScript](https://msdn.microsoft.com/en-us/library/b9w25k6f(v=vs.94).aspx)
 
 ### Things I'll Do in the Future:
 - [ ] learn SVG + SVG animation
-- [ ] REST API with mongodb and Node.JS
-
+- [x] REST API with mongodb and Node.JS
+- [ ] learn about SEO
 ### Backlog: Side Projects & Other Ideas
 - [as Developer](https://github.com/mmdsharifi/personal-goals/blob/master/asDveloper.md)
 - [as Student](https://github.com/mmdsharifi/personal-goals/blob/master/asStudent.md)
