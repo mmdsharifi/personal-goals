@@ -31,6 +31,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] learn SVG + SVG animation
 - [x] REST API with mongodb and Node.JS
 - [ ] learn about SEO
+
 ### Backlog: Side Projects & Other Ideas
 - [as Developer](https://github.com/mmdsharifi/personal-goals/blob/master/asDveloper.md)
 - [as Student](https://github.com/mmdsharifi/personal-goals/blob/master/asStudent.md)
