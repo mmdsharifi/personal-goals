@@ -24,3 +24,11 @@ TODO: add [codrops](http://tympanus.net/codrops/) links.
 
 
 ## AFSOON
+- [css lint](https://github.com/CSSLint/csslint)
+- [performance for designers by @una](https://una.im/perf-design-wins/)
+- [Critical-path (Above-the-fold) CSS Tools](https://github.com/addyosmani/critical-path-css-tools)
+- [list of Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
+- [Accessibility Guidelines Checklist](http://accessibility.voxmedia.com/)
+- [awesome SEO](https://github.com/marcobiedermann/search-engine-optimization)
+- [awesome flexbox](https://github.com/afonsopacifer/awesome-flexbox)
+- [front end awesome](https://github.com/sindresorhus/awesome#front-end-development)
