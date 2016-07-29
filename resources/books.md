@@ -7,3 +7,8 @@
 - [ ] [Hacking Exposed Web 2.0]()
 - [ ] [BDD in Action]()
 - [ ] [Killer UX]()
+
+# eBooks and Videos
+
+- [ebook dl](http://ebook-dl.com/)
+- [Tut dl](http://tut-dl.com/)
