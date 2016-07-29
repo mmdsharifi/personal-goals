@@ -9,19 +9,30 @@ Personal goals made open source for accessibility across computers I use, transp
 5. Prioritize my Health
 6. Get best result in Master's degree entrance exam  (konkour 96) 😎
 
-# 2 Mordad
+# 9 Mordad
 
-### This Week's Focus:  performance
+### This Week's Focus:  Grid
 
 ## Things I'll do This Week:
-- [ ] [Google Web Fundamentals - Getting started](https://developers.google.com/web/fundamentals/getting-started/?hl=en)
-- [ ] KetabT 1 chapter every day
+
 - [ ] English : Active Reading - 1 chapter every day
 - [ ] HQ - 30 min every morning
 - [ ] finish chapter 1 DM + test 20
 - [ ] test chapter 2 + video 5,6
-- [ ] read : designing for performance book - every day 1 chapter
-- [ ] Draw Sketch of product, category page
+- [ ] CSS layout video
+- [ ] CSS animations video
+- [ ] learn to make responsive grid (lost)
+  - [ ] see foundation grid component
+  - [ ] see miligram grid and test
+  - [ ] see web starter kit project structure
+  - [ ] see bulma flex box
+- [ ] rest browsers styles
+  - [ ] use PostCSS init
+- [ ] master page
+- [ ] Shop: first page - category
+- [ ] Shop: add product
+- [ ] Shop: add category
+- [ ] Shop: add login/register
 
 ### This Week's Reading List:
 - [ ] [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
