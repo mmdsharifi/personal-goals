@@ -20,8 +20,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] finish chapter 1 DM + test 20
 - [ ] test chapter 2 + video 5,6
 - [ ] CSS layout video
-- [ ] CSS animations video
-- [ ] learn to make responsive grid (lost)
+- [ ] CSS flexbox video
+- [ ] learn to make responsive grid (lost,bootstrap3,bootstrap4)
   - [ ] see foundation grid component
   - [ ] see miligram grid and test
   - [ ] see web starter kit project structure
