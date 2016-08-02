@@ -17,8 +17,10 @@ I learn and code every week a module for project and add it to AFSOON project to
 private :D
 ### JS
 - [basket js](https://addyosmani.com/basket.js/)
+- [jquery-palette-color-picker](https://github.com/carloscabo/jquery-palette-color-picker)
 ### Style guide templates
 - [codyhouse](https://codyhouse.co/gem/css-style-guide-template/)
+
 ### Web components
 - [modal sign up/ login](https://codyhouse.co/demo/login-signup-modal-window/index.html#0)
 - [FAQ page](https://codyhouse.co/demo/faq-template/index.html)
@@ -39,9 +41,12 @@ TODO: add [codrops](http://tympanus.net/codrops/) links.
 
 ## AFSOON
 Iranian Modern CSS framework
+
 ### SEO
 - [awesome SEO](https://github.com/marcobiedermann/search-engine-optimization)
+
 ### style guide
+- [object-oriented-front-end-framework](https://www.impression.co.uk/blog/4327/object-oriented-front-end-framework)
   - [designing Style guide](https://medium.freecodecamp.com/designing-a-styleguide-elements-that-go-into-functional-and-beautiful-products-ff1621e00a0e#.2fu0de3gc)
   - [css lint](https://github.com/CSSLint/csslint)
   - [travis-ci for beginners](https://docs.travis-ci.com/user/for-beginners)
