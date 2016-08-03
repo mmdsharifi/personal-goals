@@ -1,4 +1,4 @@
-# My Projects
+﻿# My Projects
 I'll put good resources for projects that I do, and maybe useful for you!
 ## Road Map
 I learn and code every week a module for project and add it to AFSOON project too.
@@ -75,7 +75,7 @@ Iranian Modern CSS framework
 - [btns in UI design](https://uxplanet.org/buttons-in-ui-design-the-evolution-of-style-and-best-practices-56536dc5386e#.lnbvubf4f)
 
 ### Performance & UX
-- [ ] [Google Web Fundamentals - Getting started](https://developers.google.com/web/fundamentals/getting-started/?hl=en)
+- [Google Web Fundamentals - Getting started](https://developers.google.com/web/fundamentals/getting-started/?hl=en)
 - [performance for designers by @una](https://una.im/perf-design-wins/)
 - [Critical-path (Above-the-fold) CSS Tools](https://github.com/addyosmani/critical-path-css-tools)
 - [list of Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
@@ -83,6 +83,7 @@ Iranian Modern CSS framework
 - [critical-path-css-tools postcss](https://medium.com/@nocreativity/manage-your-critical-css-with-this-postcss-plugin-6be1ca226c06#.lm47ir8l8)
 - [critical-css-example](https://github.com/mrnocreativity/critical-css-example)
 - [purifycss](https://github.com/purifycss/purifycss)
+- [optimizing-critical-path-performance](https://www.smashingmagazine.com/2016/08/optimizing-critical-path-performance-with-express-server-and-handlebars/)
 
 ### Component & Tools
 - [awesome flexbox](https://github.com/afonsopacifer/awesome-flexbox)
@@ -90,6 +91,8 @@ Iranian Modern CSS framework
 - [You don't Need JS](https://github.com/NamPNQ/You-Dont-Need-Javascript)
 - [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
 - [auroral](https://github.com/LunarLogic/auroral)
+
+### PostCSS
 - [PostCSS](https://github.com/postcss/postcss)
   - [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
   - [rucksack](http://simplaio.github.io/rucksack/)
