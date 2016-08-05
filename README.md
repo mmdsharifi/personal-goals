@@ -15,9 +15,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] English : Active Reading - 1 chapter every day
-- [ ] HQ - 30 min every morning
-- [ ] finish chapter 1 DM + test 20
+- [ ] read every day 5 page of DM
 - [ ] test chapter 2 + video 5,6
 - [ ] CSS layout video
 - [ ] CSS flexbox video
@@ -28,11 +26,6 @@ Personal goals made open source for accessibility across computers I use, transp
   - [ ] see bulma flex box
 - [ ] rest browsers styles
   - [ ] use PostCSS init
-- [ ] master page
-- [ ] Shop: first page - category
-- [ ] Shop: add product
-- [ ] Shop: add category
-- [ ] Shop: add login/register
 
 ### This Week's Reading List:
 - [ ] [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)

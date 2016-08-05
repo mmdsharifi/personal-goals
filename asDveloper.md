@@ -19,17 +19,18 @@ for (let people in this.page )
 - [x] **Agile Development and Scrum** form `Pluralsight course` (TFS)
 ### Todo s and another works
 
-- todo
-    -   add [pinpool](http://pinpool.ir) to my linkedin
+ :boom:
 
 ## goals for summer season
-- [ ] REST API - from "`RESTful Web API Design with Node.js`" + video REST API via nodejs
-- [ ] learn **Mongodb** basic and advance concepts form `"Practical MongoDB book"`
+- [x] REST API - from "`RESTful Web API Design with Node.js`" + video REST API via nodejs
+- [x] learn **Mongodb** basic and advance concepts form `"Practical MongoDB book"`
 - [ ] flexbox layout
+- [ ] learn to create CSS frameworks 
 - [ ] learm more about UX
 - [ ] web performance
 - [ ] Read micro intractions book
 - [ ] SVG and CSS3 animations.
+- [ ] learn postCSS
 
 ### Some descriptions!
 I wana be a React developer in 6 month later after than React Native!

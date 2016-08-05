@@ -1,9 +1,9 @@
-﻿# My Projects
+# My Projects
 I'll put good resources for projects that I do, and maybe useful for you!
 ## Road Map
 I learn and code every week a module for project and add it to AFSOON project too.
 
-### Sprint ONE : WEEK 1  //  9 - 14 مرداد // Focus on : Projects structure and grid
+### Sprint ONE : WEEK 1-2  //  9 - 14 مرداد // Focus on : Projects structure and grid
 - learn to make responsive grid (lost)
   - see foundation grid component
   - see miligram grid and test
@@ -13,20 +13,22 @@ I learn and code every week a module for project and add it to AFSOON project to
   - use PostCSS init
 - try to develop TDD
 
-### Sprint TWO : WEEK 2-3 ([learn to code css](https://github.com/sotayamashita/awesome-css) )
+### Sprint TWO : WEEK 3-4 ([learn to code css](https://github.com/sotayamashita/awesome-css) )
 - [CSS Structure](https://github.com/sotayamashita/awesome-css#css-structure)
 - explore PostCSS
 - [Code Style Guideline](https://github.com/sotayamashita/awesome-css#code-style-guideline)
 - [Naming conventions & Methodologies](https://github.com/sotayamashita/awesome-css#naming-conventions--methodologies)
 
-### Sprint THREE : WEEK 4-5 ([learn scalable css](https://github.com/davidtheclark/scalable-css-reading-list))
+### Sprint THREE : WEEK 5-6 ([learn scalable css](https://github.com/davidtheclark/scalable-css-reading-list))
 - scalable css reading list
 - [css-development-at-large-scale-websites](https://github.com/sotayamashita/awesome-css#css-development-at-large-scale-websites)
+- css animation
 
-### Sprint THREE : WEEK 6-7 ([learn performance]((https://github.com/davidsonfellipe/awesome-wpo))
+### Sprint THREE : WEEK 7-8 ([learn performance]((https://github.com/davidsonfellipe/awesome-wpo))
 - performance
 - Critical path
 
+- svg animation
 ---
 use `object-oriented-front-end-framework` post to create PostCSS starter kit!
 
@@ -91,6 +93,7 @@ Iranian Modern CSS framework
 - [You don't Need JS](https://github.com/NamPNQ/You-Dont-Need-Javascript)
 - [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
 - [auroral](https://github.com/LunarLogic/auroral)
+- [Inline horizontal rule](https://codepen.io/oaviv/pen/GqXwYp)
 
 ### PostCSS
 - [PostCSS](https://github.com/postcss/postcss)
