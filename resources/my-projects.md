@@ -3,7 +3,7 @@ I'll put good resources for projects that I do, and maybe useful for you!
 ## Road Map
 I learn and code every week a module for project and add it to AFSOON project too.
 
-### Sprint ONE : WEEK 1  //  7 - 14 Sharivar // Focus on : Projects structure and grid
+### Sprint ONE : WEEK 1  //  7 - 14 شهریور  // Focus on : Projects structure and grid
 - learn to make responsive grid (lost)
   - see foundation grid component
   - see miligram grid and test
@@ -11,7 +11,8 @@ I learn and code every week a module for project and add it to AFSOON project to
   - see bulma flex box
 - [rest browsers styles] (https://github.com/sotayamashita/awesome-css#reset-and-normalize)
   - use PostCSS init
-- try to develop TDD
+- learn base CSS
+use in project things I learn in every weekend.
 
 ### Sprint TWO : WEEK 2-3 ([learn to code css](https://github.com/sotayamashita/awesome-css) )
 - [CSS Structure](https://github.com/sotayamashita/awesome-css#css-structure)
@@ -30,36 +31,12 @@ I learn and code every week a module for project and add it to AFSOON project to
 ---
 use `object-oriented-front-end-framework` post to create PostCSS starter kit!
 
-## Shop Project
+## Shop Project -- done!
 private :D
-
-### JS
-- [basket js](https://addyosmani.com/basket.js/)
-- [jquery-palette-color-picker](https://github.com/carloscabo/jquery-palette-color-picker)
-
-### Style guide templates
-- [codyhouse](https://codyhouse.co/gem/css-style-guide-template/)
-
-### Web components
-- [modal sign up/ login](https://codyhouse.co/demo/login-signup-modal-window/index.html#0)
-- [FAQ page](https://codyhouse.co/demo/faq-template/index.html)
-- [side cart](https://codyhouse.co/demo/side-cart/index.html#0)
-- [content filter](https://codyhouse.co/demo/content-filter/index.html#0)
-- [products comparison table](https://codyhouse.co/demo/products-comparison-table/index.html)
-- [Advanced search form](https://codyhouse.co/gem/advanced-search-form/)
-- [Adding to cart interaction](https://codyhouse.co/demo/add-to-cart-interaction/index.html)
-- [CSS product quick view](https://codyhouse.co/gem/css-product-quick-view/)
-- [Morphing modal window](https://codyhouse.co/gem/morphing-modal-window/)
-- [breadcrumbs multi steps indicator](https://codyhouse.co/demo/breadcrumbs-multi-steps-indicator/index.html)
-
-TODO: add [codrops](http://tympanus.net/codrops/) links.
-
-## layout and admin/user area
-- [evandHQ](https://evand.ir/account)
 
 ---
 
-## AFSOON
+## AFSOON 
 Iranian Modern CSS framework
 
 ### Browser
@@ -81,6 +58,7 @@ Iranian Modern CSS framework
 
 ###  Scalable CSS
 
+- [read book](http://ecss.io/)
 - [scaling css components with ](https://www.lullabot.com/articles/scaling-css-components-with-bem-rems-ems)
 - [BEM atomic design](https://www.lullabot.com/articles/bem-atomic-design-a-css-architecture-worth-loving)
 

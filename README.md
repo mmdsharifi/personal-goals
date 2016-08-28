@@ -9,16 +9,13 @@ Personal goals made open source for accessibility across computers I use, transp
 5. Prioritize my Health
 6. Get best result in Master's degree entrance exam  (konkour 96) 😎
 
-# 9 Mordad
+# 6 Mordad
 
-### This Week's Focus:  Grid
+### This Week's Focus:  CSS - Grid
 
 ## Things I'll do This Week:
 
-- [ ] English : Active Reading - 1 chapter every day
 - [ ] HQ - 30 min every morning
-- [ ] finish chapter 1 DM + test 20
-- [ ] test chapter 2 + video 5,6
 - [ ] CSS layout video
 - [ ] CSS flexbox video
 - [ ] learn to make responsive grid (lost,bootstrap3,bootstrap4)
@@ -27,14 +24,11 @@ Personal goals made open source for accessibility across computers I use, transp
   - [ ] see web starter kit project structure
   - [ ] see bulma flex box
 - [ ] rest browsers styles
-  - [ ] use PostCSS init
-- [ ] master page
-- [ ] Shop: first page - category
-- [ ] Shop: add product
-- [ ] Shop: add category
-- [ ] Shop: add login/register
+- [ ] use PostCSS auto rest
+
 
 ### This Week's Reading List:
+
 - [ ] [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 - [ ] [Advanced JavaScript](https://msdn.microsoft.com/en-us/library/b9w25k6f(v=vs.94).aspx)
 
