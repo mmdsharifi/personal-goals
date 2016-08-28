@@ -3,7 +3,7 @@ I'll put good resources for projects that I do, and maybe useful for you!
 ## Road Map
 I learn and code every week a module for project and add it to AFSOON project too.
 
-### Sprint ONE : WEEK 1  //  9 - 14 مرداد // Focus on : Projects structure and grid
+### Sprint ONE : WEEK 1  //  7 - 14 Sharivar // Focus on : Projects structure and grid
 - learn to make responsive grid (lost)
   - see foundation grid component
   - see miligram grid and test
@@ -62,6 +62,11 @@ TODO: add [codrops](http://tympanus.net/codrops/) links.
 ## AFSOON
 Iranian Modern CSS framework
 
+### Browser
+
+- [How browser works](http://arvindr21.github.io/howBrowserWorks/)
+- [Browser rendering optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
+
 ### SEO
 - [awesome SEO](https://github.com/marcobiedermann/search-engine-optimization)
 
@@ -74,6 +79,11 @@ Iranian Modern CSS framework
 - [css guide line](http://cssguidelin.es/)
 - [btns in UI design](https://uxplanet.org/buttons-in-ui-design-the-evolution-of-style-and-best-practices-56536dc5386e#.lnbvubf4f)
 
+###  Scalable CSS
+
+- [scaling css components with ](https://www.lullabot.com/articles/scaling-css-components-with-bem-rems-ems)
+- [BEM atomic design](https://www.lullabot.com/articles/bem-atomic-design-a-css-architecture-worth-loving)
+
 ### Performance & UX
 - [Google Web Fundamentals - Getting started](https://developers.google.com/web/fundamentals/getting-started/?hl=en)
 - [performance for designers by @una](https://una.im/perf-design-wins/)
@@ -84,6 +94,18 @@ Iranian Modern CSS framework
 - [critical-css-example](https://github.com/mrnocreativity/critical-css-example)
 - [purifycss](https://github.com/purifycss/purifycss)
 - [optimizing-critical-path-performance](https://www.smashingmagazine.com/2016/08/optimizing-critical-path-performance-with-express-server-and-handlebars/)
+- [website performance optimization](https://classroom.udacity.com/courses/ud884/lessons/1464158641/concepts/14734291220923)
+#### Accessibility
+
+- [Web accessibility course](https://www.udacity.com/course/web-accessibility--ud891)
+
+#### Typography
+
+- [flexible typography with css locks](http://blog.typekit.com/2016/08/17/flexible-typography-with-css-locks/)
+
+#### Animation
+
+- [60 fps animations](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108)
 
 ### Component & Tools
 - [awesome flexbox](https://github.com/afonsopacifer/awesome-flexbox)
@@ -91,7 +113,10 @@ Iranian Modern CSS framework
 - [You don't Need JS](https://github.com/NamPNQ/You-Dont-Need-Javascript)
 - [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
 - [auroral](https://github.com/LunarLogic/auroral)
-
+- [Css loading ](https://codepen.io/MadeByMike/pen/ZOrEmr?editors=110)
+- [Css scroll indicator ](https://codepen.io/MadeByMike/pen/ZOrEmr?editors=1100)
+- [UI buttons](https://uxplanet.org/buttons-in-ui-design-the-evolution-of-style-and-best-practices-56536dc5386e#.lzodbglq0)
+- [8 CSS functions](https://www.sitepoint.com/8-clever-tricks-with-css-functions/)
 ### PostCSS
 - [PostCSS](https://github.com/postcss/postcss)
   - [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
