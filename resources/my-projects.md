@@ -36,7 +36,7 @@ private :D
 
 ---
 
-## AFSOON 
+## AFSOON
 Iranian Modern CSS framework
 
 ### Browser
@@ -48,6 +48,7 @@ Iranian Modern CSS framework
 - [awesome SEO](https://github.com/marcobiedermann/search-engine-optimization)
 
 ### style guide
+- [Design and development standards to align and guide your project](http://pointnorth.io)
 - [object-oriented-front-end-framework](https://www.impression.co.uk/blog/4327/object-oriented-front-end-framework)
   - [designing Style guide](https://medium.freecodecamp.com/designing-a-styleguide-elements-that-go-into-functional-and-beautiful-products-ff1621e00a0e#.2fu0de3gc)
   - [css lint](https://github.com/CSSLint/csslint)
@@ -95,6 +96,7 @@ Iranian Modern CSS framework
 - [Css scroll indicator ](https://codepen.io/MadeByMike/pen/ZOrEmr?editors=1100)
 - [UI buttons](https://uxplanet.org/buttons-in-ui-design-the-evolution-of-style-and-best-practices-56536dc5386e#.lzodbglq0)
 - [8 CSS functions](https://www.sitepoint.com/8-clever-tricks-with-css-functions/)
+- [CSS loadings](http://codepen.io/mrspok407/pen/Gqbmowss)
 ### PostCSS
 - [PostCSS](https://github.com/postcss/postcss)
   - [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
