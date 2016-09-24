@@ -14,38 +14,35 @@ for (let people in this.page )
 - [x] learn work with views in ASP.net
 - [x] learn Typescript from `dotnettips.info` articles
 - [x] learn **NodeJS** - read an ebook  `Beginning Node.js`
-- [x] learn **Angular 2** -- 50٪ -- 
+- [x] learn **Angular 2** -- 50٪ --
 - [x] Basics - from "`Beginning Node.js`"
 - [x] **Agile Development and Scrum** form `Pluralsight course` (TFS)
 ### Todo s and another works
 
-- todo
-    -   add [pinpool](http://pinpool.ir) to my linkedin
 
 ## goals for summer season
-- [ ] REST API - from "`RESTful Web API Design with Node.js`" + video REST API via nodejs
-- [ ] learn **Mongodb** basic and advance concepts form `"Practical MongoDB book"`
-- [ ] flexbox layout
-- [ ] learm more about UX
-- [ ] web performance
-- [ ] Read micro intractions book
+- [x] REST API - from "`RESTful Web API Design with Node.js`" + video REST API via nodejs
+- [x] learn **Mongodb** basic and advance concepts form `"Practical MongoDB book"`
+- [x] learm more about UX
+- [x] web performance
+- [x] learn React JS with parsclick.net tutorials
+- [x] flexbox layout -- init --
 - [ ] SVG and CSS3 animations.
-
+- [ ] Read micro intractions book
 ### Some descriptions!
 I wana be a React developer in 6 month later after than React Native!
 
 ## goals for Fall season
-- [ ] js design patterns with addy osmani's book
-- [ ] Create a simple social  network  whit "NodeJS By Example"
+- [ ] JS design patterns: with addy osmani's book
+- [ ] learn **Angular 2**
 - [ ] learn [Advance concepts of JavaScript] (http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
-- [ ] learn **React JS**
-- [ ] learn React JS with parsclick.net tutorials
+- [ ] create CSS micro framework --init --complite --optimization
 
 ## goals for last 3 month of year!
 
 - [ ] learn yeoman with yeoman fundamentals video
 - [ ] Learn TDD and BDD
-- [ ] Create **Android App**  React Native
+- [ ] Create **Android App**  Native Script!
 - [ ] learn electron
 - [ ] write a free a book for share my experience !  
 ### Backlog

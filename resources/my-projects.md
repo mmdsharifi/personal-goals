@@ -14,6 +14,16 @@ I learn and code every week a module for project and add it to AFSOON project to
 - learn base CSS
 use in project things I learn in every weekend.
 
+#### Todo
+- [ ] CSS flexbox video
+- [ ] learn to make responsive grid (lost,bootstrap3,bootstrap4)
+  - [ ] see foundation grid component
+  - [ ] see miligram grid and test
+  - [ ] see web starter kit project structure
+  - [ ] see bulma flex box
+- [ ] rest browsers styles
+- [ ] use PostCSS auto rest
+
 ### Sprint TWO : WEEK 2-3 ([learn to code css](https://github.com/sotayamashita/awesome-css) )
 - [CSS Structure](https://github.com/sotayamashita/awesome-css#css-structure)
 - explore PostCSS

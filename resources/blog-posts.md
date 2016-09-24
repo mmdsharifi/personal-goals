@@ -22,7 +22,7 @@
 - [ ] [Mega list SVG information](https://css-tricks.com/mega-list-svg-information/)
 
 ### Mongodb
-- [ ] [Stored procedures in Mongodb](http://pointbeing.net/weblog/2010/08/getting-started-with-stored-procedures-in-mongodb.html)
+- [x] [Stored procedures in Mongodb](http://pointbeing.net/weblog/2010/08/getting-started-with-stored-procedures-in-mongodb.html)
 - [ ] [administration and security in Mongodb](http://scanlibs.com/mongodb-learn-administration-and-security-in-mongodb/)
 
 ### Tools

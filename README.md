@@ -15,16 +15,13 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] HQ - 30 min every morning
-- [ ] CSS layout video
-- [ ] CSS flexbox video
-- [ ] learn to make responsive grid (lost,bootstrap3,bootstrap4)
-  - [ ] see foundation grid component
-  - [ ] see miligram grid and test
-  - [ ] see web starter kit project structure
-  - [ ] see bulma flex box
-- [ ] rest browsers styles
-- [ ] use PostCSS auto rest
+- [ ] shop project - product page
+- [ ] shop project - main page
+- [ ] shop project - multi level menu
+- [ ] Angular2 learn - Routing
+- [ ] Angular2 learn - Service
+- [ ] Angular2 learn - use viddan table
+- [ ] Angular2 learn - HTTP 
 
 
 ### This Week's Reading List:
