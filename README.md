@@ -9,9 +9,9 @@ Personal goals made open source for accessibility across computers I use, transp
 5. Prioritize my Health
 6. Get best result in Master's degree entrance exam  (konkour 96) 😎
 
-# 9 Mordad
+# 6 Mordad
 
-### This Week's Focus:  Grid
+### This Week's Focus:  CSS - Grid
 
 ## Things I'll do This Week:
 
@@ -28,6 +28,7 @@ Personal goals made open source for accessibility across computers I use, transp
   - [ ] use PostCSS init
 
 ### This Week's Reading List:
+
 - [ ] [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 - [ ] [Advanced JavaScript](https://msdn.microsoft.com/en-us/library/b9w25k6f(v=vs.94).aspx)
 

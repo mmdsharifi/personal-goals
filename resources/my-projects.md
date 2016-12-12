@@ -3,7 +3,7 @@ I'll put good resources for projects that I do, and maybe useful for you!
 ## Road Map
 I learn and code every week a module for project and add it to AFSOON project too.
 
-### Sprint ONE : WEEK 1-2  //  9 - 14 مرداد // Focus on : Projects structure and grid
+### Sprint ONE : WEEK 1  //  7 - 14 شهریور  // Focus on : Projects structure and grid
 - learn to make responsive grid (lost)
   - see foundation grid component
   - see miligram grid and test
@@ -11,7 +11,18 @@ I learn and code every week a module for project and add it to AFSOON project to
   - see bulma flex box
 - [rest browsers styles] (https://github.com/sotayamashita/awesome-css#reset-and-normalize)
   - use PostCSS init
-- try to develop TDD
+- learn base CSS
+use in project things I learn in every weekend.
+
+#### Todo
+- [ ] CSS flexbox video
+- [ ] learn to make responsive grid (lost,bootstrap3,bootstrap4)
+  - [ ] see foundation grid component
+  - [ ] see miligram grid and test
+  - [ ] see web starter kit project structure
+  - [ ] see bulma flex box
+- [ ] rest browsers styles
+- [ ] use PostCSS auto rest
 
 ### Sprint TWO : WEEK 3-4 ([learn to code css](https://github.com/sotayamashita/awesome-css) )
 - [CSS Structure](https://github.com/sotayamashita/awesome-css#css-structure)
@@ -32,42 +43,24 @@ I learn and code every week a module for project and add it to AFSOON project to
 ---
 use `object-oriented-front-end-framework` post to create PostCSS starter kit!
 
-## Shop Project
+## Shop Project -- done!
 private :D
-
-### JS
-- [basket js](https://addyosmani.com/basket.js/)
-- [jquery-palette-color-picker](https://github.com/carloscabo/jquery-palette-color-picker)
-
-### Style guide templates
-- [codyhouse](https://codyhouse.co/gem/css-style-guide-template/)
-
-### Web components
-- [modal sign up/ login](https://codyhouse.co/demo/login-signup-modal-window/index.html#0)
-- [FAQ page](https://codyhouse.co/demo/faq-template/index.html)
-- [side cart](https://codyhouse.co/demo/side-cart/index.html#0)
-- [content filter](https://codyhouse.co/demo/content-filter/index.html#0)
-- [products comparison table](https://codyhouse.co/demo/products-comparison-table/index.html)
-- [Advanced search form](https://codyhouse.co/gem/advanced-search-form/)
-- [Adding to cart interaction](https://codyhouse.co/demo/add-to-cart-interaction/index.html)
-- [CSS product quick view](https://codyhouse.co/gem/css-product-quick-view/)
-- [Morphing modal window](https://codyhouse.co/gem/morphing-modal-window/)
-- [breadcrumbs multi steps indicator](https://codyhouse.co/demo/breadcrumbs-multi-steps-indicator/index.html)
-
-TODO: add [codrops](http://tympanus.net/codrops/) links.
-
-## layout and admin/user area
-- [evandHQ](https://evand.ir/account)
 
 ---
 
 ## AFSOON
 Iranian Modern CSS framework
 
+### Browser
+
+- [How browser works](http://arvindr21.github.io/howBrowserWorks/)
+- [Browser rendering optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
+
 ### SEO
 - [awesome SEO](https://github.com/marcobiedermann/search-engine-optimization)
 
 ### style guide
+- [Design and development standards to align and guide your project](http://pointnorth.io)
 - [object-oriented-front-end-framework](https://www.impression.co.uk/blog/4327/object-oriented-front-end-framework)
   - [designing Style guide](https://medium.freecodecamp.com/designing-a-styleguide-elements-that-go-into-functional-and-beautiful-products-ff1621e00a0e#.2fu0de3gc)
   - [css lint](https://github.com/CSSLint/csslint)
@@ -75,6 +68,12 @@ Iranian Modern CSS framework
 - [legacy css code](http://tinnedfruit.com/2016/07/25/are-you-writing-legacy-css-code.html)
 - [css guide line](http://cssguidelin.es/)
 - [btns in UI design](https://uxplanet.org/buttons-in-ui-design-the-evolution-of-style-and-best-practices-56536dc5386e#.lnbvubf4f)
+
+###  Scalable CSS
+
+- [read book](http://ecss.io/)
+- [scaling css components with ](https://www.lullabot.com/articles/scaling-css-components-with-bem-rems-ems)
+- [BEM atomic design](https://www.lullabot.com/articles/bem-atomic-design-a-css-architecture-worth-loving)
 
 ### Performance & UX
 - [Google Web Fundamentals - Getting started](https://developers.google.com/web/fundamentals/getting-started/?hl=en)
@@ -86,6 +85,18 @@ Iranian Modern CSS framework
 - [critical-css-example](https://github.com/mrnocreativity/critical-css-example)
 - [purifycss](https://github.com/purifycss/purifycss)
 - [optimizing-critical-path-performance](https://www.smashingmagazine.com/2016/08/optimizing-critical-path-performance-with-express-server-and-handlebars/)
+- [website performance optimization](https://classroom.udacity.com/courses/ud884/lessons/1464158641/concepts/14734291220923)
+#### Accessibility
+
+- [Web accessibility course](https://www.udacity.com/course/web-accessibility--ud891)
+
+#### Typography
+
+- [flexible typography with css locks](http://blog.typekit.com/2016/08/17/flexible-typography-with-css-locks/)
+
+#### Animation
+
+- [60 fps animations](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108)
 
 ### Component & Tools
 - [awesome flexbox](https://github.com/afonsopacifer/awesome-flexbox)
@@ -94,7 +105,11 @@ Iranian Modern CSS framework
 - [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
 - [auroral](https://github.com/LunarLogic/auroral)
 - [Inline horizontal rule](https://codepen.io/oaviv/pen/GqXwYp)
-
+- [Css loading ](https://codepen.io/MadeByMike/pen/ZOrEmr?editors=110)
+- [Css scroll indicator ](https://codepen.io/MadeByMike/pen/ZOrEmr?editors=1100)
+- [UI buttons](https://uxplanet.org/buttons-in-ui-design-the-evolution-of-style-and-best-practices-56536dc5386e#.lzodbglq0)
+- [8 CSS functions](https://www.sitepoint.com/8-clever-tricks-with-css-functions/)
+- [CSS loadings](http://codepen.io/mrspok407/pen/Gqbmowss)
 ### PostCSS
 - [PostCSS](https://github.com/postcss/postcss)
   - [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree)

@@ -14,12 +14,11 @@ for (let people in this.page )
 - [x] learn work with views in ASP.net
 - [x] learn Typescript from `dotnettips.info` articles
 - [x] learn **NodeJS** - read an ebook  `Beginning Node.js`
-- [x] learn **Angular 2** -- 50٪ -- 
+- [x] learn **Angular 2** -- 50٪ --
 - [x] Basics - from "`Beginning Node.js`"
 - [x] **Agile Development and Scrum** form `Pluralsight course` (TFS)
 ### Todo s and another works
 
- :boom:
 
 ## goals for summer season
 - [x] REST API - from "`RESTful Web API Design with Node.js`" + video REST API via nodejs
@@ -38,9 +37,20 @@ I wana be a React developer in 6 month later after than React Native!
 ## goals for Autumn season
 - [ ] js design patterns with addy osmani's book
 - [ ] Create a simple social  network  whit "NodeJS By Example"
+- [x] learm more about UX
+- [x] web performance
+- [x] learn React JS with parsclick.net tutorials
+- [x] flexbox layout -- init --
+- [ ] SVG and CSS3 animations.
+- [ ] Read micro intractions book
+### Some descriptions!
+I wana be a React developer in 6 month later after than React Native!
+
+## goals for Fall season
+- [ ] JS design patterns: with addy osmani's book
+- [ ] learn **Angular 2**
 - [ ] learn [Advance concepts of JavaScript] (http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
-- [ ] learn **React JS**
-- [ ] learn React JS with parsclick.net tutorials
+- [ ] create CSS micro framework --init --complite --optimization
 
 ### Aban: 2'th month of autumn
 - [x] Angular 2 concepts 
@@ -61,7 +71,7 @@ I wana be a React developer in 6 month later after than React Native!
 
 - [ ] learn yeoman with yeoman fundamentals video
 - [ ] Learn TDD and BDD
-- [ ] Create **Android App**  React Native
+- [ ] Create **Android App**  Native Script!
 - [ ] learn electron
 - [ ] write a free a book for share my experience !  
 ### Backlog
