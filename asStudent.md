@@ -25,6 +25,21 @@ Study hard for konkour exam 96 :sunglasses:
 ### Descriptions
 ...
 
-## goals for last 6 months of year
+### Autumn: 2'th month
+- [x] Algorithm design: 2 chapters from 3 chapters
+- [x] AI 2 from 3 chapters
+- [x] OS: 5 questions from 100 :|
+- [x] Network 1 from 3
+- [x] English 504 words
+- [ ] SE nope!
+- [ ] DB nope!
+### Autumn: 3'th month
+- [ ] AL,DS: 50% 
+- [ ] AI: 50% 
+- [ ] Net: 50% 
+- [ ] OS: 50% 
+- [ ] SE: 50% 
+- [ ] DB: 50% 
+- [ ] CA: 50%
+- [ ] EN: 504: 50% - lesson 21
 
-- [ ] go to one of tehran university

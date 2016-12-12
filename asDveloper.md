@@ -35,12 +35,27 @@ for (let people in this.page )
 ### Some descriptions!
 I wana be a React developer in 6 month later after than React Native!
 
-## goals for Fall season
+## goals for Autumn season
 - [ ] js design patterns with addy osmani's book
 - [ ] Create a simple social  network  whit "NodeJS By Example"
 - [ ] learn [Advance concepts of JavaScript] (http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
 - [ ] learn **React JS**
 - [ ] learn React JS with parsclick.net tutorials
+
+### Aban: 2'th month of autumn
+- [x] Angular 2 concepts 
+- [x] RxJS 😄
+- [x] create hello electron
+- [x] learn flexbox 
+- [x] lean about how yeoman work
+- [x] how to deply ng2 apps! 😎😜
+
+### Azar: 3'th month of autumn
+- [ ] Master in Angular 2 with packetpub videoes
+- [ ] add some components to miligram framework
+- [ ] create Angular 2 date time picker jalali
+- [ ] Write blog posts about my experiences
+- [ ] and some cool ng2 apps 😄😏😝
 
 ## goals for last 3 month of year!
 
