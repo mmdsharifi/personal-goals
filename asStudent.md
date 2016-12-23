@@ -52,3 +52,4 @@ Master in solving tests! 😎
 - [ ] Finish final project university (doc)
 - [ ] Read *50%* lessons in this month and other 50% in other one
 - [ ] Read active reading 50% ~ page 70 (1.5 unit per day)
+

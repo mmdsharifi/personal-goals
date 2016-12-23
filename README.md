@@ -25,6 +25,12 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] final project: (1 part per day)
 - [ ] KT: part(3 part): +Q 
 
+### Time Table
+
+| 7-8  	| 8:30 - 10 	| 10:30 - 12 	| 12 - 12:30 	| 14 - 16       	| 16:15 - 17:15 	| 18 - 20  	| 20:30 - 22 	| 22 - 23 	| 15 min                      	|
+|------	|-----------	|------------	|------------	|---------------	|---------------	|----------	|------------	|---------	|-----------------------------	|
+| run! 	| lesson 1  	| lesson 2   	| snooze !   	| Final project 	| EN            	| lesson 3 	| free       	| free    	| set:next day todo and dream 	|
+
 ### Backlog: Side Projects & Other Ideas
 - [as Developer](https://github.com/mmdsharifi/personal-goals/blob/master/asDveloper.md)
 - [as Student](https://github.com/mmdsharifi/personal-goals/blob/master/asStudent.md)
