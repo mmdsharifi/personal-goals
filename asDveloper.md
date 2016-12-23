@@ -61,19 +61,19 @@ I wana be a React developer in 6 month later after than React Native!
 - [x] how to deply ng2 apps! 😎😜
 
 ### Azar: 3'th month of autumn
-- [ ] Master in Angular 2 with packetpub videoes
-- [ ] add some components to miligram framework
+- [-] Master in Angular 2 with packetpub videoes (In Progress!)
+- [x] add some components to miligram framework
 - [ ] create Angular 2 date time picker jalali
 - [ ] Write blog posts about my experiences
-- [ ] and some cool ng2 apps 😄😏😝
+- [x] and some cool ng2 apps 😄😏😝
 
 ## goals for last 3 month of year!
 
-- [ ] learn yeoman with yeoman fundamentals video
-- [ ] Learn TDD and BDD
-- [ ] Create **Android App**  Native Script!
-- [ ] learn electron
-- [ ] write a free a book for share my experience !  
+### DAY
+- [ ] finish my final project
+- [ ] create progressive web apps
+
+
 ### Backlog
 - UX
 - BigData

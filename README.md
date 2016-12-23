@@ -9,33 +9,21 @@ Personal goals made open source for accessibility across computers I use, transp
 5. Prioritize my Health
 6. Get best result in Master's degree entrance exam  (konkour 96) 😎
 
-# 6 Mordad
+# 4 day
 
-### This Week's Focus:  CSS - Grid
+### This Week's Focus:  read lessons (15%)
 
-## Things I'll do This Week:
+## Things I'll do This Week: Fire Up
 
-- [ ] read every day 5 page of DM
-- [ ] test chapter 2 + video 5,6
-- [ ] CSS layout video
-- [ ] CSS flexbox video
-- [ ] learn to make responsive grid (lost,bootstrap3,bootstrap4)
-  - [ ] see foundation grid component
-  - [ ] see miligram grid and test
-  - [ ] see web starter kit project structure
-  - [ ] see bulma flex box
-- [ ] rest browsers styles
-  - [ ] use PostCSS init
-
-### This Week's Reading List:
-
-- [ ] [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-- [ ] [Advanced JavaScript](https://msdn.microsoft.com/en-us/library/b9w25k6f(v=vs.94).aspx)
-
-### Things I'll Do in the Future:
-- [ ] learn SVG + SVG animation
-- [x] REST API with mongodb and Node.JS
-- [ ] learn about SEO
+- [ ] algo: chapter(3): read + test (R&T) ☺️
+- [ ] DB: chapter(1,2): R&T 😋
+- [ ] OS: solve(10): test + read partials 😊
+- [ ] Net: chapter(3): read ☺️
+- [ ] AI: chapter(3); R&T 😋
+- [ ] SE: chapter(1,2): R&T 😍
+- [ ] EN: lesson(1-3): read 😍
+- [ ] final project: (1 part per day)
+- [ ] KT: part(3 part): +Q 
 
 ### Backlog: Side Projects & Other Ideas
 - [as Developer](https://github.com/mmdsharifi/personal-goals/blob/master/asDveloper.md)
@@ -45,4 +33,4 @@ Personal goals made open source for accessibility across computers I use, transp
 
 
 # help me
-if you wana make me h:smile:ppy you can help me by forking this repo and sending your pull requests OR [open a new issue](https://github.com/mmdsharifi/personal-goals/issues/new).
+if you wana make me happy you can help me by forking this repo and sending your pull requests OR [open a new issue](https://github.com/mmdsharifi/personal-goals/issues/new).

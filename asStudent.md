@@ -19,7 +19,7 @@ Study hard for konkour exam 96 :sunglasses:
 - [ ] Complite Active reading 2
 - [ ] finish 504 words - lesson 12 - 42 ...	 [1,2,3,4,5]
 - [ ] complite final project as my statup project! a web app + mobile app
-- [ ] get best scores in last term :D
+- [x] get best scores in last term :D
 - [ ] Read 50% Discrete math and computer architecture
 
 ### Descriptions
@@ -43,3 +43,12 @@ Study hard for konkour exam 96 :sunglasses:
 - [ ] CA: 50%
 - [ ] EN: 504: 50% - lesson 21
 
+### winter season
+
+Master in solving tests! 😎
+
+#### "Day" month
+
+- [ ] Finish final project university (doc)
+- [ ] Read *50%* lessons in this month and other 50% in other one
+- [ ] Read active reading 50% ~ page 70 (1.5 unit per day)
