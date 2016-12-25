@@ -21,15 +21,18 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Net: chapter(3): read ☺️
 - [ ] AI: chapter(3); R&T 😋
 - [ ] SE: chapter(1,2): R&T 😍
+- [ ] CA: chapter(2): R&T 😍😍
 - [ ] EN: lesson(1-3): read 😍
 - [ ] final project: (1 part per day)
 - [ ] KT: part(3 part): +Q 
 
 ### Time Table
 
-| 7-8  	| 8:30 - 10 	| 10:30 - 12 	| 12 - 12:30 	| 14 - 16       	| 16:15 - 17:15 	| 18 - 20  	| 20:30 - 22 	| 22 - 23 	| 15 min                      	|
+| 7-8  	| 8:00 - 10 	| 10:30 - 12 	| 12 - 12:30 	| 14 - 16       	| 16:15 - 17:15 	| 18 - 20  	| 20:30 - 22 	| 22 - 23 	| 15 min                      	|
 |------	|-----------	|------------	|------------	|---------------	|---------------	|----------	|------------	|---------	|-----------------------------	|
-| run! 	| lesson 1  	| lesson 2   	| snooze !   	| Final project 	| EN            	| lesson 3 	| free       	| free    	| set:next day todo and dream 	|
+| run! 	| lesson 1  	| lesson 2   	| snooze+ KT+ Q |  lesson free  	|  English*      	| lesson 3 	| Final project | KT+ Q+ En | set:next day todo and dream 	|
+
+**Note*: Write words in my notebook.
 
 ### Backlog: Side Projects & Other Ideas
 - [as Developer](https://github.com/mmdsharifi/personal-goals/blob/master/asDveloper.md)
