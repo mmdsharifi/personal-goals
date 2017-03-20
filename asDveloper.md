@@ -44,7 +44,6 @@ I wana be a React developer in 6 month later after than React Native!
 - [ ] SVG and CSS3 animations.
 - [ ] Read micro intractions book
 ### Some descriptions!
-I wana be a React developer in 6 month later after than React Native!
 
 ## goals for Fall season
 - [ ] JS design patterns: with addy osmani's book
