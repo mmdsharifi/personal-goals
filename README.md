@@ -17,11 +17,10 @@ Personal goals made open source for accessibility across computers I use, transp
 
 - [ ] algo: chapter(3): read + test (R&T) ☺️
 - [ ] DB: chapter(1,2): R&T 😋
-- [ ] OS: solve(10): test + read partials 😊
+- [ ] OS: chapter(1,2): test 😊
 - [ ] Net: chapter(3): read ☺️
-- [ ] AI: chapter(3); R&T 😋
+- [ ] AI: chapter(1-3); R&T 😋
 - [ ] SE: chapter(1,2): R&T 😍
-- [ ] CA: chapter(2): R&T 😍😍
 - [ ] EN: lesson(1-3): read 😍
 - [ ] final project: (1 part per day)
 - [ ] KT: part(3 part): +Q 

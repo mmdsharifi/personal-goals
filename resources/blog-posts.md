@@ -49,3 +49,9 @@
 
 ### for inspire
 - [call to idea](http://www.calltoidea.com/)
+
+### CSS Images
+
+- [A Beginner’s Guide to Pure CSS Images](https://medium.com/dailycssimages/a-beginners-guide-to-pure-css-images-ef9a5d069dd2#.v9fk4wq4s)
+- [An Intermediate Guide to Pure CSS Images](https://medium.com/dailycssimages/an-intermediate-guide-to-pure-css-images-f058e2b30697#.4qyilkjz2)
+- [Color](https://coolors.co)
