@@ -2,6 +2,7 @@
 Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. hope this repo make my life better!
 
 # Overarching Goals for 1396 (2017-18):
+
 1. JavaScript!
 2. ‌Bulid MVP of learning idea
 3. Read more books (ebooks, podcasts, paper books,...)
@@ -11,24 +12,26 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ### This Week's Focus:  Konkoor exam
 ## Things I'll do This Week: Fire Up
-
+ 
 - [ ] algo: chapter(5-7): read + test from orange book ☺️
 - [ ] DB: chapter(1-6): R&T 😋
 - [ ] OS: chapter(1-6): test 😊
 - [ ] Net: chapter(VI topics): read ☺️
 - [ ] AI: chapter(8-10); R&T 
-- [ ] SE: chapter(5-10): R&T 😍
-- [ ] EN: lesson(memrise): learn! 😋
-- [ ] MN: lesson(5-14): review with Test
-- [ ] Runing in morning 1.5 km
+- [ ] EN: memrise! save my goal streak 
 - [ ] write about idea (challenges make learning fun!)
+- [ ] solve konkoor (93,92,91)
+- [ ] getting read for run by preparing things at night!
+- [ ] imagine every night my goals
+- [ ] celebrate my success in study and runing!
+
 
 Things I'll Do This Month: Farvardin 96
 
 - [ ] Read Quran 30 min per day
 - [ ] Study hard for exam
 - [ ] Run every morning 1km+ (or 3 days in week)
-- [ ] commite daily happy moments
+- [ ] write daily happy moments for positive feeling
 - [ ] start reading a book (10 min per day!)
 - [ ] put time to think about my idea (15 min per day)
 
