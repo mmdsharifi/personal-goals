@@ -10,19 +10,19 @@ Personal goals made open source for accessibility across computers I use, transp
 5. Get best result in Master's degree entrance exam  (konkour 96) 😎
 6. Build a lot of apps!
 
-### This Week's Focus:  Konkoor exam
-## Things I'll do This Week: Fire Up
+### This Week's Focus:  **Konkoor exam**
+## Things I'll do This Week: Solve konkoor
  
-- [ ] algo: chapter(5-7): read + test from orange book ☺️
-- [ ] DB: chapter(1-6): R&T 😋
-- [ ] OS: chapter(1-6): test 😊
-- [ ] Net: chapter(VI topics): read ☺️
-- [ ] AI: chapter(8-10); R&T 
+- [ ] algo: chapter(2-4): read + test from orange book ☺️
+- [ ] DB: chapter(6-7): R&T 😋
+- [ ] OS: chapter(2,5): test 😊
+- [ ] Net: chapter(VI topics): test ☺️
+- [ ] AI: chapter(4-10); VIP topics  
 - [ ] EN: memrise! save my goal streak 
-- [ ] write about idea (challenges make learning fun!)
+- [ ] write about idea
 - [ ] solve konkoor (93,92,91)
-- [ ] getting read for run by preparing things at night!
-- [ ] imagine every night my goals
+- [ ] getting ready for run by preparing things at night!
+- [ ] imagine every night my goals + have smile
 - [ ] celebrate my success in study and runing!
 
 

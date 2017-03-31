@@ -10,6 +10,12 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 - [ ] [Talking with Tech Leads](https://www.goodreads.com/review/show/1221334358)
 - [x] [pretotyping](http://pretotyping.ir/)  -- alberto savoia
 
+## farvardin 1396 (March 2017)
+
+- [x] حکایت دولت و فرزانگی - ‫‪The‬‬ ‫‪Instant‬‬ ‫‪Millionaire‬‬ ‫–‬ ‫‪a‬‬ ‫‪Tale‬‬ ‫‪of‬‬ ‫‪Wisdom‬‬ ‫‪And‬‬ ‫‪Wealth‬‬ -- Mark fisher
+
+
+
 To-Read/Recommendations:
 ---
 - [ ] [Red Rising](http://www.audible.com/pd/Sci-Fi-Fantasy/Red-Rising-Audiobook/B00I2VWW5U/ref=a_search_c4_1_1_srImg?qid=1443799691&sr=1-1) -- Pierce Brown // via TJ
