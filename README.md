@@ -13,18 +13,17 @@ Personal goals made open source for accessibility across computers I use, transp
 ### This Week's Focus:  **Konkoor exam**
 ## Things I'll do This Week: Solve konkoor
  
-- [ ] algo: chapter(2-4): read + test from orange book ☺️
-- [ ] DB: chapter(6-7): R&T 😋
+- [ ] algo: chapter(graph, tree chapter): 
+- [ ] DB
 - [ ] OS: chapter(2,5): test 😊
 - [ ] Net: chapter(VI topics): test ☺️
-- [ ] AI: chapter(4-10); VIP topics  
+- [ ] AI: chapter(9-10); VIP topics  
 - [ ] EN: memrise! save my goal streak 
 - [ ] write about idea
-- [ ] solve konkoor (93,92,91)
+- [ ] solve konkoor (89,88,87)
 - [ ] getting ready for run by preparing things at night!
 - [ ] imagine every night my goals + have smile
 - [ ] celebrate my success in study and runing!
-
 
 Things I'll Do This Month: Farvardin 96
 
