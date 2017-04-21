@@ -81,5 +81,28 @@ I wana be a React developer in 6 month later after than React Native!
 - pick a Js Framework and analysis it! to create a **JS framework**
 - Learn Test-Driven Development (TDD)  in javaScript `"Test-Driven JavaScript Development"`
 
-# help me !
-you can help me with forking this repo , and send your pull requests in a branch. thanks alot.
+
+---
+---
+
+# 1396 
+
+migrate to reactJS, because I think it's a tool so as a front end developer I need to know all of important ideas behind them!
+
+## season 1
+
+### React JS & Redux
+
+- [] [react intro ](https://github.com/ericvicenti/intro-to-react)
+- [] react documents and tutorials
+- [] wes bos - react for beginners couse
+- [] develop ttik.ir as first react project
+
+### progressive web app
+
+- [] learn ro create pwa
+
+### postcss and css variables
+
+- [] switch to postcss
+
