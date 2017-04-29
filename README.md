@@ -13,25 +13,17 @@ Personal goals made open source for accessibility across computers I use, transp
 ### This Week's Focus:  **Konkoor exam**
 ## Things I'll do This Week: Solve konkoor
  
-- [ ] algo: chapter(graph, tree chapter): 
-- [ ] DB
-- [ ] OS: chapter(2,5): test 😊
-- [ ] Net: chapter(VI topics): test ☺️
-- [ ] AI: chapter(9-10); VIP topics  
-- [ ] EN: memrise! save my goal streak 
-- [ ] write about idea
-- [ ] solve konkoor (89,88,87)
-- [ ] getting ready for run by preparing things at night!
-- [ ] imagine every night my goals + have smile
-- [ ] celebrate my success in study and runing!
+- [ ] Read Vue Doc 
+- [ ] finish final project documnets
+- [ ] Start Re Design My Blog -> Interactive resume -> progressive app 
+- [ ] write daily happy moments for positive feeling
+- [ ] read 1984 book
 
 Things I'll Do This Month: Farvardin 96
 
-- [ ] Read Quran 30 min per day
-- [ ] Study hard for exam
+- [x] Study hard for exam
 - [ ] Run every morning 1km+ (or 3 days in week)
-- [ ] write daily happy moments for positive feeling
-- [ ] start reading a book (10 min per day!)
+- [ ] start reading a book
 - [ ] put time to think about my idea (15 min per day)
 
 

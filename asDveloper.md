@@ -91,16 +91,17 @@ migrate to reactJS, because I think it's a tool so as a front end developer I ne
 
 ## season 1
 
-### React JS & Redux
+### Vue JS 
 
-- [] [react intro ](https://github.com/ericvicenti/intro-to-react)
-- [] react documents and tutorials
-- [] wes bos - react for beginners couse
-- [] develop ttik.ir as first react project
-
+- [x] [react intro ](https://github.com/ericvicenti/intro-to-react)
+- [x] react documents 
+- [x] wes bos - react for beginners couse
+- [ ] Read Vue library
+- [ ] develop ttik.ir as first Vue project
+- [ ] quera.ir contest
 ### progressive web app
 
-- [] learn ro create pwa
+- [] learn to create pwa
 
 ### postcss and css variables
 
