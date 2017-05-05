@@ -10,14 +10,18 @@ Personal goals made open source for accessibility across computers I use, transp
 5. Get best result in Master's degree entrance exam  (konkour 96) 😎
 6. Build a lot of apps!
 
-### This Week's Focus:  **Konkoor exam**
-## Things I'll do This Week: Solve konkoor
- 
-- [ ] Read Vue Doc 
-- [ ] finish final project documnets
-- [ ] Start Re Design My Blog -> Interactive resume -> progressive app 
-- [ ] write daily happy moments for positive feeling
-- [ ] read 1984 book
+### This Week's Focus:  **Angular Routing**
+## Things I'll do This Week: 
+
+- [ ] Practice Angular Routing 
+- [ ] Performace and security in Angular apps
+- [ ] Animation in Angular
+
+- [ ] Sketching redesign of [my personal site ](lenus.org) 
+- [ ] read about css variables and PostCSS by doing 👇
+- [ ] create my design workflow (write feature list)
+
+- [ ] finish docs of final project 😁
 
 Things I'll Do This Month: Farvardin 96
 
