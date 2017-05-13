@@ -13,6 +13,7 @@ Personal goals made open source for accessibility across computers I use, transp
 ### This Week's Focus:  **Angular Routing**
 ## Things I'll do This Week: 
 
+- [ ] finish manapal project
 - [ ] Practice Angular Routing 
 - [ ] Performace and security in Angular apps
 - [ ] Animation in Angular
