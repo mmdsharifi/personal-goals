@@ -13,23 +13,19 @@ Personal goals made open source for accessibility across computers I use, transp
 ### This Week's Focus:  **Angular Routing**
 ## Things I'll do This Week: 
 
-- [ ] finish manapal project
-- [ ] Practice Angular Routing 
-- [ ] Performace and security in Angular apps
-- [ ] Animation in Angular
-
-- [ ] Sketching redesign of [my personal site ](lenus.org) 
-- [ ] read about css variables and PostCSS by doing 👇
-- [ ] create my design workflow (write feature list)
-
+- [x] Read Vue Doc 
 - [ ] finish docs of final project 😁
+- [ ] every day `#100DaysOfCode` 💪
+- [ ] Sketching todo idea
+- [ ] Create a prototype
 
-Things I'll Do This Month: Farvardin 96
+Things I'll Do This Month: Khordad 96
 
 - [x] Study hard for exam
+- [x] put time to think about my idea (15 min per day)
 - [ ] Run every morning 1km+ (or 3 days in week)
 - [ ] start reading a book
-- [ ] put time to think about my idea (15 min per day)
+- [ ] create a prototype
 
 
 ### Backlog: Side Projects & Other Ideas
