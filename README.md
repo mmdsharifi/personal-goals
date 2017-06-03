@@ -10,22 +10,23 @@ Personal goals made open source for accessibility across computers I use, transp
 5. Get best result in Master's degree entrance exam  (konkour 96) 😎
 6. Build a lot of apps!
 
-### This Week's Focus:  **Angular Routing**
+### This Week's Focus:  **Todo app**
 ## Things I'll do This Week: 
 
-- [x] Read Vue Doc 
-- [ ] finish docs of final project 😁
+- [ ] prototype index todo
+- [ ] prototype profile page
+- [ ] prototype setting page
+- [ ] prototype add/edit page
+- [ ] read more q book
 - [ ] every day `#100DaysOfCode` 💪
-- [ ] Sketching todo idea
-- [ ] Create a prototype
 
 Things I'll Do This Month: Khordad 96
 
 - [x] Study hard for exam
 - [x] put time to think about my idea (15 min per day)
 - [ ] Run every morning 1km+ (or 3 days in week)
-- [ ] start reading a book
-- [ ] create a prototype
+- [ ] start reading a book _@ 14 - 16 pm_
+- [ ] _create a prototype *WIP*_
 
 
 ### Backlog: Side Projects & Other Ideas

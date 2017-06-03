@@ -87,7 +87,7 @@ I wana be a React developer in 6 month later after than React Native!
 
 # 1396 
 
-migrate to reactJS, because I think it's a tool so as a front end developer I need to know all of important ideas behind them!
+Learn about reactJS, because I think it's a tool so as a front end developer I need to know all of important ideas behind them!
 
 ## season 1
 
