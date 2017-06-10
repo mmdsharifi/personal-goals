@@ -20,6 +20,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] read more q book
 - [ ] every day `#100DaysOfCode` 💪
 
+
 Things I'll Do This Month: Khordad 96
 
 - [x] Study hard for exam
