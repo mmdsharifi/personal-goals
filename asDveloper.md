@@ -98,7 +98,7 @@ Learn about reactJS, because I think it's a tool so as a front end developer I n
 - [x] wes bos - react for beginners couse
 - [ ] Read Vue library
 - [ ] develop ttik.ir as first Vue project
-- [ ] quera.ir contest
+- [-] quera.ir contest
 ### progressive web app
 
 - [] learn to create pwa
@@ -107,3 +107,9 @@ Learn about reactJS, because I think it's a tool so as a front end developer I n
 
 - [] switch to postcss
 
+## season 2
+
+- [ ] learn english - memrise - toffel words
+- [ ] up todo idea!
+- [ ] advanced JS topics : JS patterns, functional programing.
+- [ ] learn more about UX - _read books_
