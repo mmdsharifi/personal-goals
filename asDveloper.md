@@ -83,7 +83,6 @@ I wana be a React developer in 6 month later after than React Native!
 
 
 ---
----
 
 # 1396 
 
@@ -91,14 +90,12 @@ Learn about reactJS, because I think it's a tool so as a front end developer I n
 
 ## season 1
 
-### Vue JS 
+### Vue JS & ReactJS
 
 - [x] [react intro ](https://github.com/ericvicenti/intro-to-react)
 - [x] react documents 
 - [x] wes bos - react for beginners couse
-- [ ] Read Vue library
-- [ ] develop ttik.ir as first Vue project
-- [-] quera.ir contest
+
 ### progressive web app
 
 - [] learn to create pwa
@@ -109,7 +106,7 @@ Learn about reactJS, because I think it's a tool so as a front end developer I n
 
 ## season 2
 
-- [ ] learn english - memrise - toffel words
+- [ ] learn english - memrise - (toffel words)
 - [ ] up todo idea!
-- [ ] advanced JS topics : JS patterns, functional programing.
+- [ ] advanced JS & Angular topics : JS patterns, functional programing.
 - [ ] learn more about UX - _read books_

@@ -7,17 +7,24 @@ Personal goals made open source for accessibility across computers I use, transp
 2. ‌Bulid MVP of learning idea
 3. Read more books (ebooks, podcasts, paper books,...)
 4. Start A Daily Run Streak (1+ Km per day)
-5. Get best result in Master's degree entrance exam  (konkour 96) 😎
+5. Get best result in Master's degree entrance exam  (konkour 96) 😎 _done 🎉🎊 grade: 142 IT_
 6. Build a lot of apps!
 
 ### This Week's Focus:  **Todo app**
 ## Things I'll do This Week: 
 
-- [ ] prototype index todo
-- [ ] prototype profile page
-- [ ] prototype setting page
-- [ ] prototype add/edit page
-- [ ] read more q book
+### Todo project -> design UI
+
+- [ ]  Add task
+- [ ]  profile
+- [ ]  settings
+- [ ]  tasks page : today, next 7 day, future ...
+- [ ]  Increase UX, optimize UI
+- [ ]  add logic, app works locally (mocck json...)
+
+---
+
+- [ ] read q book
 - [ ] every day `#100DaysOfCode` 💪
 
 
