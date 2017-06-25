@@ -34,3 +34,8 @@ read this stack overflow question :[Choosing a technology stack for Desktop + Mo
 ## resources
 - [scotch tutorials](https://scotch.io/tutorials)
 - [awesome front end](https://github.com/sindresorhus/awesome#front-end-development)
+
+
+## for my blog
+
+- [ ] who I planc for summer and learn more about js and css

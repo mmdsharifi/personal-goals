@@ -106,7 +106,15 @@ Learn about reactJS, because I think it's a tool so as a front end developer I n
 
 ## season 2
 
+- [ ] CSS3: Animation, Flexbox Course,...
 - [ ] learn english - memrise - (toffel words)
+- [ ] JS: functional programing, DOM,...  (JavaScript30 course wes bos)
+---
+- [ ] React Course
+- [ ] Redux Course
+- [ ] learn more about UX - _read a book_
+- [ ] Learn Node -> `Create(MERN.app)`
+
+### apps
 - [ ] up todo idea!
-- [ ] advanced JS & Angular topics : JS patterns, functional programing.
-- [ ] learn more about UX - _read books_
+- [ ] up ZanaLib idea!

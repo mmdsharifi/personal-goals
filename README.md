@@ -15,13 +15,12 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ### Todo project -> design UI
 
-- [ ]  Add task
-- [ ]  profile
-- [ ]  settings
 - [ ]  tasks page : today, next 7 day, future ...
 - [ ]  Increase UX, optimize UI
-- [ ]  add logic, app works locally (mocck json...)
-
+- [ ]  add logic, app works locally (mock json...)
+- [ ]  lunch tamrino.ir landing page
+- [ ]  every day english words 30min
+- [ ]  every day q book 30min
 ---
 
 - [ ] read q book
@@ -35,7 +34,7 @@ Things I'll Do This Month: Khordad 96
 - [ ] Run every morning 1km+ (or 3 days in week)
 - [ ] start reading a book _@ 14 - 16 pm_
 - [ ] _create a prototype *WIP*_
-
+- [ ] read a UX book (dont make me think)
 
 ### Backlog: Side Projects & Other Ideas
 - [as Developer](https://github.com/mmdsharifi/personal-goals/blob/master/asDveloper.md)
