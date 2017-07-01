@@ -16,15 +16,14 @@ Personal goals made open source for accessibility across computers I use, transp
 ### Todo project -> design UI
 
 - [ ]  tasks page : today, next 7 day, future ...
-- [ ]  Increase UX, optimize UI
-- [ ]  add logic, app works locally (mock json...)
-- [ ]  lunch tamrino.ir landing page
 - [ ]  every day english words 30min
 - [ ]  every day q book 30min
+- [ ]  flexbox course
+- [ ]  start reading `dont make me think`
 ---
 
-- [ ] read q book
-- [ ] every day `#100DaysOfCode` 💪
+- [x] read q book
+- [x] every day `#100DaysOfCode` 💪
 
 
 Things I'll Do This Month: Khordad 96
