@@ -13,13 +13,18 @@ Personal goals made open source for accessibility across computers I use, transp
 ### This Week's Focus:  **Todo app**
 ## Things I'll do This Week: 
 
-### Todo project -> design UI
+### Todo project 
 
 - [ ]  tasks page : today, next 7 day, future ...
+- [ ]  tasks add, update, delete, done, undone
+- [ ]  todo::profile
+- [ ]  todo::settings
 - [ ]  every day english words 30min
 - [ ]  every day q book 30min
 - [ ]  flexbox course
-- [ ]  start reading `dont make me think`
+- [ ]  reading `dont make me think` - chapter 1
+- [ ]  blog post: How I learn design and develop
+- [ ]  blog post: Create a blog template: flexbox & postcss from 0
 ---
 
 - [x] read q book
