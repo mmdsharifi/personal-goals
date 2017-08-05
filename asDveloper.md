@@ -104,17 +104,19 @@ Learn about reactJS, because I think it's a tool so as a front end developer I n
 
 - [] switch to postcss
 
-## season 2
+## season 2 (just focus on Angular 4)
 
 - [ ] CSS3: Animation, Flexbox Course,...
 - [ ] learn english - memrise - (toffel words)
 - [ ] JS: functional programing, DOM,...  (JavaScript30 course wes bos)
 ---
-- [ ] React Course
-- [ ] Redux Course
+- [-] --React Course--
+- [ ] Redux Course in Angular
 - [ ] learn more about UX - _read a book_
 - [ ] Learn Node -> `Create(MERN.app)`
+- [ ] Angular Advanced topics
 
 ### apps
 - [ ] up todo idea!
-- [ ] up ZanaLib idea!
+- [ ] up Gire idea!
+- [x] tamrino.ir

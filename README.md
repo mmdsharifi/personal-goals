@@ -15,29 +15,29 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ### Todo project 
 
-- [ ]  tasks page : today, next 7 day, future ...
-- [ ]  tasks add, update, delete, done, undone
-- [ ]  todo::profile
-- [ ]  todo::settings
-- [ ]  every day english words 30min
-- [ ]  every day q book 30min
-- [ ]  flexbox course
+
+- [ ] develop Gire
+- [ ] learn about Redux in Angular
+- [ ] learn about Unit testing in Angular
+- [ ] develop anOther project
+- [ ] every day 3000 steps...
+- [ ] learn english in memrise.com
 - [ ]  reading `dont make me think` - chapter 1
-- [ ]  blog post: How I learn design and develop
 - [ ]  blog post: Create a blog template: flexbox & postcss from 0
+- [ ] read Angular style guides
 ---
 
 - [x] read q book
 - [x] every day `#100DaysOfCode` 💪
 
 
-Things I'll Do This Month: Khordad 96
+Things I'll Do This Month: Mordad 96
 
 - [x] Study hard for exam
 - [x] put time to think about my idea (15 min per day)
-- [ ] Run every morning 1km+ (or 3 days in week)
+- [x] Run every morning 1km+ (or 3 days in week)
 - [ ] start reading a book _@ 14 - 16 pm_
-- [ ] _create a prototype *WIP*_
+- [x] _create a prototype *WIP*_
 - [ ] read a UX book (dont make me think)
 
 ### Backlog: Side Projects & Other Ideas
