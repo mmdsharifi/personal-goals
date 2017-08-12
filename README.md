@@ -16,13 +16,12 @@ Personal goals made open source for accessibility across computers I use, transp
 ### Todo project 
 
 
-- [ ] develop Gire
-- [ ] learn about Redux in Angular
-- [ ] learn about Unit testing in Angular
-- [ ] develop anOther project
+- [ ] Develop Gire project
+- [ ] Develop File app project
+- [ ] learn moreee! about Angular
 - [ ] every day 3000 steps...
 - [ ] learn english in memrise.com
-- [ ]  reading `dont make me think` - chapter 1
+- [x]  reading `dont make me think` - chapter 1
 - [ ]  blog post: Create a blog template: flexbox & postcss from 0
 - [ ] read Angular style guides
 ---
