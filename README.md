@@ -13,17 +13,15 @@ Personal goals made open source for accessibility across computers I use, transp
 ### This Week's Focus:  **Todo app**
 ## Things I'll do This Week: 
 
-### Todo project 
+- [ ] blog post: `this.inJS('frontking.cim')`
+- [ ] learn about angular.js to fix issues in Pizza.ir admin dashboard
+- [ ] learn to create animation in Angular 4
+- [ ] develop Inspector project - connect app to API
+- [ ] learn more about client side testing (js) --use-resources-links
+- [x] every day 3000 steps...
+- [x] learn english in memrise.com
+- [x] reading `dont make me think` - chapter 1
 
-
-- [ ] Develop Gire project
-- [ ] Develop File app project
-- [ ] learn moreee! about Angular
-- [ ] every day 3000 steps...
-- [ ] learn english in memrise.com
-- [x]  reading `dont make me think` - chapter 1
-- [ ]  blog post: Create a blog template: flexbox & postcss from 0
-- [ ] read Angular style guides
 ---
 
 - [x] read q book
