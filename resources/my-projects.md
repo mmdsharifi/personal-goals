@@ -15,8 +15,8 @@ I learn and code every week a module for project and add it to AFSOON project to
 use in project things I learn in every weekend.
 
 #### Todo
-- [ ] CSS flexbox video
-- [ ] learn to make responsive grid (lost,bootstrap3,bootstrap4)
+- [x] CSS flexbox video
+- [x] learn to make responsive grid (lost,bootstrap3,bootstrap4)
   - [ ] see foundation grid component
   - [ ] see miligram grid and test
   - [ ] see web starter kit project structure

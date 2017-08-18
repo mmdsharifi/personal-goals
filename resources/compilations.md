@@ -6,8 +6,8 @@
 
 ### ES6
 
-- [ ] [Persian Tutorials in DotNetTips](http://www.dotnettips.info/newsarchive/news/9120)
-- [ ] [ES6 tutorial](http://ccoenraets.github.io/es6-tutorial/)
+- [x] [Persian Tutorials in DotNetTips](http://www.dotnettips.info/newsarchive/news/9120)
+- [x] [ES6 tutorial](http://ccoenraets.github.io/es6-tutorial/)
 - [ ] [understanding ES6](https://leanpub.com/understandinges6/read/)
 - [ ] [OO JavaScript](http://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/)
 ### All the Front End Things

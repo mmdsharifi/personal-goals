@@ -9,7 +9,6 @@ read this stack overflow question :[Choosing a technology stack for Desktop + Mo
 - [ ] html5/css3/bootstrap3 from Zero and with a project
 - [ ] html5/css3/bootstrap3 to Advanced and with a project (flexbox,...)
   - [ ] SASS & LESS
-  - [ ] bower
   - [ ] gulp
 - [ ] SVG and CSS3 animations
 - [ ] JavaScript (ES6) - concepts - [^](https://scotch.io/tutorials/learning-javascript-native-functions-and-how-to-use-them)
@@ -19,7 +18,7 @@ read this stack overflow question :[Choosing a technology stack for Desktop + Mo
 - [ ] JavaScript design patterns - [^](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
 - [ ] React JS - concepts
 - [ ] React Native for mobile development - [^](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes)
-- [ ] electron desktop application - [^](http%3A%2F%2Fwww.juxt.com%2Fpov%2Fthoughts%2Fbuilding-native-desktop-apps-with-web-tech)
+- [ ] electron desktop application - [^](http://www.juxt.com%2Fpov%2Fthoughts%2Fbuilding-native-desktop-apps-with-web-tech)
 - [ ] Node.JS server side JS
 - [ ] Express
 - [ ] MongoDB
@@ -38,4 +37,4 @@ read this stack overflow question :[Choosing a technology stack for Desktop + Mo
 
 ## for my blog
 
-- [ ] who I planc for summer and learn more about js and css
+- [ ] how I plan for summer and learn more about js and css
