@@ -4,42 +4,32 @@ Personal goals made open source for accessibility across computers I use, transp
 # Overarching Goals for 1396 (2017-18):
 
 1. JavaScript!
-2. ‌Bulid MVP of learning idea
-3. Read more books (ebooks, podcasts, paper books,...)
+2. ‌Build MVP of learning idea
+3. Read more books (ebooks, pod casts, paper books,...)
 4. Start A Daily Run Streak (1+ Km per day)
 5. Get best result in Master's degree entrance exam  (konkour 96) 😎 _done 🎉🎊 grade: 142 IT_
 6. Build a lot of apps!
 
 ### This Week's Focus:  **Todo app**
-## Things I'll do This Week: 
+## Things I'll do This Week:
 
-- [ ] blog post: `this.inJS('frontking.cim')`
-- [ ] learn about angular.js to fix issues in Pizza.ir admin dashboard
-- [ ] learn to create animation in Angular 4
-- [ ] develop Inspector project - connect app to API
-- [ ] learn more about client side testing (js) --use-resources-links
-- [x] every day 3000 steps...
-- [x] learn english in memrise.com
-- [x] reading `dont make me think` - chapter 1
-
----
-
-- [x] read q book
-- [x] every day `#100DaysOfCode` 💪
+- [ ] Do SDM course homework
+- [ ] Review Machine learning
+- [ ] Review Math
+- [ ] Review Animation
+- [ ] Review Software Development and Management
+- [ ] learning React Native & React.JS
+- [ ] go to gym at odd days
 
 
-Things I'll Do This Month: Mordad 96
 
-- [x] Study hard for exam
-- [x] put time to think about my idea (15 min per day)
-- [x] Run every morning 1km+ (or 3 days in week)
-- [ ] start reading a book _@ 14 - 16 pm_
-- [x] _create a prototype *WIP*_
-- [ ] read a UX book (dont make me think)
+Things I'll Do This Month: Mehr 96
+
+- [ ] learning English via memrise.com
+- [ ] go to gym at odd days
 
 ### Backlog: Side Projects & Other Ideas
 - [as Developer](https://github.com/mmdsharifi/personal-goals/blob/master/asDveloper.md)
 - [as Student](https://github.com/mmdsharifi/personal-goals/blob/master/asStudent.md)
 - [Apps & Other Projects](https://github.com/mmdsharifi/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
 - [Blog Post Ideas](https://github.com/mmdsharifi/personal-goals/blob/master/ideas-and-misc/blog-ideas.md)
-
