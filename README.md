@@ -10,17 +10,16 @@ Personal goals made open source for accessibility across computers I use, transp
 5. Get best result in Master's degree entrance exam  (konkour 96) 😎 _done 🎉🎊 grade: 142 IT_
 6. Build a lot of apps!
 
-### This Week's Focus:  **Todo app**
+### This Week's Focus:  **Learn Three.js**
 ## Things I'll do This Week:
 
-- [ ] Do SDM course homework
-- [ ] Review Machine learning
 - [ ] Review Math
 - [ ] Review Animation
-- [ ] Review Software Development and Management
-- [ ] learning React Native & React.JS
 - [ ] go to gym at odd days
-
+- [ ] learn and review university courses in same day
+- [ ] learn `three.js`
+- [ ] learn about Adaptive UI
+- [ ] develop Bimo project
 
 
 Things I'll Do This Month: Mehr 96
