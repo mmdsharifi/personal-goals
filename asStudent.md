@@ -13,14 +13,17 @@ Study hard for konkour exam 96 :sunglasses:
 
 
 ### Descriptions
+
 ...
 
 ## goals for summer season
+
 - [ ] Complete Active reading 2
 - [ ] every day put 30 min to learn English words
 - [ ] ready to get TOEFL or IELTS degree...
 
 ### Descriptions
+
 ...
 
 ### Autumn:
