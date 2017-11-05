@@ -11,19 +11,22 @@ Personal goals made open source for accessibility across computers I use, transp
 6. Build a lot of apps!
 
 
-### This Week's Focus:  **Learn Three.js**
+### This Week's Focus:  *learn three.js and Machine learning**
 
 ## Things I'll do This Week:
 
+- [ ] ML - Quizz and midterm chapter 3, 4
 - [ ] learn and review university courses in same day
-- [ ] import a rigged object in `three.js`
-- [ ] learn react-js for creating AR app!
-- [ ] plan and start codeing AR app.
-- [ ] OpenGL exercises, 1
-- [ ] SDM - midterm
-- [ ] ML -> persian book and alpaydin chapter 1-4.
+- [ ] learn `three.js` - import rigged skeleton - for animation project
+- [ ] OpenGL exercises - number 1 - Cube
+- [ ] develop AR educational app with AR.js
+- [ ] take part in `Educational Entrepreneurship Festival` in SBU ;)
+- [ ] Learn about angular 5
+- [ ] go to gym at odd days
+- [ ] meet hamed and get Machine learning book @ Saturday 5 pm
+- [ ] learn English - every night
 
-#### Things I'll Do This Month: Mehr 96
+#### Things I'll Do This Month: Aban 96
 
 - [ ] learning English via memrise.com
 - [ ] go to gym at odd days
