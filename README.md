@@ -15,16 +15,12 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] ML - Quizz and midterm chapter 3, 4
-- [ ] learn and review university courses in same day
+- [ ] read ML book every day (10 pages per day => 110 page)
 - [ ] learn `three.js` - import rigged skeleton - for animation project
 - [ ] OpenGL exercises - number 1 - Cube
 - [ ] develop AR educational app with AR.js
-- [ ] take part in `Educational Entrepreneurship Festival` in SBU ;)
-- [ ] Learn about angular 5
-- [ ] go to gym at odd days
-- [ ] meet hamed and get Machine learning book @ Saturday 5 pm
 - [ ] learn English - every night
+- [ ] read book 
 
 #### Things I'll Do This Month: Aban 96
 
