@@ -120,3 +120,8 @@ Learn about reactJS, because I think it's a tool so as a front end developer I n
 - [ ] up todo idea!
 - [ ] up Gire idea!
 - [x] tamrino.ir
+
+## last season!
+* [ ] [learn GraphGL ](https://medium.com/@kalin.chernev/the-guide-to-learn-graphql-i-wish-i-found-few-months-go-97f9d9ca6f12s)
+* [ ] css grid cssgrid.io
+* [ ] code every day!
