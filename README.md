@@ -2,7 +2,7 @@
 
 Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. hope this repo make my life better!
 
-# Overarching Goals for 1396 (2017-18):
+## Overarching Gorals for 1396 (2017-18):
 
 1. JavaScript!
 2. ‌Build MVP of learning idea
@@ -11,7 +11,7 @@ Personal goals made open source for accessibility across computers I use, transp
 5. Get best result in Master's degree entrance exam (konkour 96) 😎 _done 🎉🎊 grade: 142 IT_
 6. Build a lot of apps!
 
-### This Week's Focus: \*learn three.js and Machine learning\*\*
+### This Week's Focus: deep learning
 
 ## Things I'll do This Week:
 
@@ -19,9 +19,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 * [ ] Read ML project article [article](https://arxiv.org/abs/1705.07962)
 * [ ] Animation project: documentation.
-* [ ] SDM project (testing stories)
 * [ ] learning `deep learning`
-* [ ] refresh angular my knowledge!
 * [ ] Angular Redux - ngxStore
 * [ ] Code review - [+](https://github.com/aviabird/yatrum), [+](https://github.com/aviabird/angularspree)
 
