@@ -34,7 +34,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ### Backlog: Side Projects & Other Ideas
 
-* [as Developer](https://github.com/mmdsharifi/personal-goals/blob/master/asDveloper.md)
+* [as Developer](https://github.com/mmdsharifi/personal-goals/blob/master/asDeveloper.md)
 * [as Student](https://github.com/mmdsharifi/personal-goals/blob/master/asStudent.md)
 * [Apps & Other Projects](https://github.com/mmdsharifi/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
 * [Blog Post Ideas](https://github.com/mmdsharifi/personal-goals/blob/master/ideas-and-misc/blog-ideas.md)
