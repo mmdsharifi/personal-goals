@@ -1,40 +1,40 @@
 # Personal goals
 
-Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. hope this repo make my life better!
+Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. hope this repository make my life better!
 
-## Overarching Gorals for 1396 (2017-18):
+## Overarching Gorals for 1397:
 
-1. JavaScript!
-2. ‌Build MVP of learning idea
-3. Read more books (ebooks, pod casts, paper books,...)
-4. Start A Daily Run Streak (1+ Km per day)
-5. Get best result in Master's degree entrance exam (konkour 96) 😎 _done 🎉🎊 grade: 142 IT_
-6. Build a lot of apps!
+1.  JavaScript, and Angular!
+2.  ‌More attention to my spiritual dimension
+3.  Read books (e books, pod casts, paper books)
+4.  Running and Walking every day
+5.  Become full stack front end developer
+6.  Write a blog post per week
 
 ### This Week's Focus: deep learning
 
 ## Things I'll do This Week:
 
-[//]: # "categorys: university, dev, study, health, bloging"
+[//]: # "categories: university, dev, study, health, blogging"
 
-* [ ] Read ML project article [article](https://arxiv.org/abs/1705.07962)
-* [ ] Animation project: documentation.
-* [ ] learning `deep learning`
-* [ ] Angular Redux - ngxStore
 * [ ] Code review - [+](https://github.com/aviabird/yatrum), [+](https://github.com/aviabird/angularspree)
+* [ ] learn and write about progressive web apps + amp -> write in draft virgool.io
+* [ ] QR - chapter 30
+* [ ] dadman project
+* [ ] B.T.S project
+* [ ] effort less english - one part per day
+* [ ] study book Know Can Do!
+* [ ] study marif-o-tarigh
+* [ ] getting started to study main article of U.I. course
 
-### Things I'll Do This Month: day 96
+### Things I'll Do This Month: Farvardin 96
 
-* [ ] learning English via memrise.com
-* [ ] go to gym at odd days
-* [ ] Run at even days
-* [ ] KT every day one part
-* [ ] English Effortless - 1 part per day
-* [ ] QR every day
+* [ ] Write 4 blog post in this month
+* [ ] Running and Walking
 
 ### Backlog: Side Projects & Other Ideas
 
-* [as Developer](https://github.com/mmdsharifi/personal-goals/blob/master/asDeveloper.md)
-* [as Student](https://github.com/mmdsharifi/personal-goals/blob/master/asStudent.md)
+* [Personal goals](https://github.com/mmdsharifi/personal-goals/blob/master/asDeveloper.md)
+* [Career goals](https://github.com/mmdsharifi/personal-goals/blob/master/asStudent.md)
 * [Apps & Other Projects](https://github.com/mmdsharifi/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
 * [Blog Post Ideas](https://github.com/mmdsharifi/personal-goals/blob/master/ideas-and-misc/blog-ideas.md)
