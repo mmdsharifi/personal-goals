@@ -17,20 +17,20 @@ Personal goals made open source for accessibility across computers I use, transp
 
 [//]: # "categories: university, dev, study, health, blogging"
 
-* [ ] Code review - [+](https://github.com/aviabird/yatrum), [+](https://github.com/aviabird/angularspree)
-* [ ] 📝� learn and write about progressive web apps + amp -> write in draft virgool.io
+* [ ] 📝 learn and write about progressive web apps + amp -> write in draft virgool.io
 * [ ] 📖 QR - chapter 30
 * [ ] 👨‍💻 dadman project
 * [ ] 👨‍💻 B.T.S project
-* [ ] :us: effort less english - one part per day
+* [ ] 💬 effort less english - one part per day
 * [ ] 📚 study book Know Can Do!
 * [ ] 📚 study marif-o-tarigh
-* [ ] 🗞 getting started to study main article of U.I. course
+* [ ] 😍 getting started to study main article of U.I. course
 
 ### Things I'll Do This Month: Farvardin 96 🌺
 
 * [ ] 📝 Write 4 blog post in this month
 * [ ] 🏃 Running and Walking
+* [ ] 👁‍🗨 Code review - [+](https://github.com/aviabird/yatrum), [+](https://github.com/aviabird/angularspree)
 
 ### Backlog: Side Projects & Other Ideas
 
