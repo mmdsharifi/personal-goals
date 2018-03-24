@@ -1,39 +1,19 @@
 # Books I've Read & Want to Read
 
-### And by "Read" I mean Audiobooks I've Listened to
+### And by "Read" I mean Audio books I've Listened to
 
 Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodreads.com/) account.
 
-## farvardin 1395 (March 2016)
+## Farverdin 1397
 
-* [x] حکایت دولت و فرزانگی - ‫‪The‬‬ ‫‪Instant‬‬ ‫‪Millionaire‬‬ ‫–‬ ‫‪a‬‬ ‫‪Tale‬‬ ‫‪of‬‬ ‫‪Wisdom‬‬ ‫‪And‬‬ ‫‪Wealth‬‬ -- Mark fisher
-* [ ] Money, Master the Game -- Tony Robbins
-* [ ] [Talking with Tech Leads](https://www.goodreads.com/review/show/1221334358)
-* [x] [pretotyping](http://pretotyping.ir/) -- alberto savoia
+* [ ] Marifo tarigh
+* [ ] Know Can Do! Put Your Know-How Into Action -- Pierre Blanchard
+* [ ] design your life
 
-## farvardin 1396 (March 2017)
+### to read
 
-* [x] حکایت دولت و فرزانگی - ‫‪The‬‬ ‫‪Instant‬‬ ‫‪Millionaire‬‬ ‫–‬ ‫‪a‬‬ ‫‪Tale‬‬ ‫‪of‬‬ ‫‪Wisdom‬‬ ‫‪And‬‬ ‫‪Wealth‬‬ -- Mark fisher
+* [ ] The Design of Everyday Things -- Donald A. Norman
 
-## To-Read/Recommendations:
+### to buy
 
-* [ ] [Red Rising](http://www.audible.com/pd/Sci-Fi-Fantasy/Red-Rising-Audiobook/B00I2VWW5U/ref=a_search_c4_1_1_srImg?qid=1443799691&sr=1-1) -- Pierce Brown // via TJ
-* [ ] Pitch Perfect -- Bill McGowan //via Wes Bos
-
--- from @una book checklist
-
-* [ ] Lean UX -- Jeff Gothelf
-* [ ] All the Light we Cannot See -- Anthony Doerr
-* [ ] Weaving the Web -- Tim Berners-Lee
-* [ ] Ready Player One -- Ernest Cline
-* [ ] Digital Wars: Apple, Google, Microsoft and the Battle for the Internet -- Charles Arthur
-* [ ] CSS Secrets -- Lea Verou
-* [ ] No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State -- Glen Greenwald
-
-# e-learning books
-
-* https://community.articulate.com/e-books
-
-# poem
-
-* [ ] poems of [Mahwi](https://en.wikipedia.org/wiki/Mahwi) (one of the most prominenet classical **Kurdish** poets)
+* [ ] poems of [Mahwi](https://en.wikipedia.org/wiki/Mahwi) (one of the most prominent classical **Kurdish** poets)
