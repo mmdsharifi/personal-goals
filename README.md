@@ -11,26 +11,26 @@ Personal goals made open source for accessibility across computers I use, transp
 5.  Become full stack front end developer
 6.  Write a blog post per week
 
-### This Week's Focus: deep learning
+### This Week's Focus: Progressive web apps
 
 ## Things I'll do This Week:
 
 [//]: # "categories: university, dev, study, health, blogging"
 
 * [ ] Code review - [+](https://github.com/aviabird/yatrum), [+](https://github.com/aviabird/angularspree)
-* [ ] learn and write about progressive web apps + amp -> write in draft virgool.io
-* [ ] QR - chapter 30
-* [ ] dadman project
-* [ ] B.T.S project
-* [ ] effort less english - one part per day
-* [ ] study book Know Can Do!
-* [ ] study marif-o-tarigh
-* [ ] getting started to study main article of U.I. course
+* [ ] 📝� learn and write about progressive web apps + amp -> write in draft virgool.io
+* [ ] 📖 QR - chapter 30
+* [ ] 👨‍💻 dadman project
+* [ ] 👨‍💻 B.T.S project
+* [ ] :us: effort less english - one part per day
+* [ ] 📚 study book Know Can Do!
+* [ ] 📚 study marif-o-tarigh
+* [ ] 🗞 getting started to study main article of U.I. course
 
-### Things I'll Do This Month: Farvardin 96
+### Things I'll Do This Month: Farvardin 96 🌺
 
-* [ ] Write 4 blog post in this month
-* [ ] Running and Walking
+* [ ] 📝 Write 4 blog post in this month
+* [ ] 🏃 Running and Walking
 
 ### Backlog: Side Projects & Other Ideas
 
