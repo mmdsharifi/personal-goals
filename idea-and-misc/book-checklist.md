@@ -6,13 +6,14 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 
 ## Farverdin 1397
 
+* [x] ⭐️ Know Can Do! Put Your Know-How Into Action -- Pierre Blanchard
 * [ ] Marifo tarigh
-* [ ] Know Can Do! Put Your Know-How Into Action -- Pierre Blanchard
 * [ ] design your life
 
 ### to read
 
 * [ ] The Design of Everyday Things -- Donald A. Norman
+* [ ] The history of Kord nation by Ehsan Noori (an old book)
 
 ### to buy
 

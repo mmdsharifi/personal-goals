@@ -8,13 +8,14 @@ I promise to write 1 post per week. here is road map.
 * [ ] Multi user control access
 * [ ] angular apps in scale
 * [ ] angular deployment and docker
-* [ ] ...
+* [ ] SVG and SVG animation - [pocket guide](http://svgpocketguide.com/book/), practical svg
+* [ ] about UI/UX
 
 ## Farvardin
 
 * [x] My backpack for year 1397
-* [ ] Getting started with Progressive web apps
-* [ ] Create a pwa with angular framework + AMP
+* [x] Getting started with Progressive web apps
+* [ ] Create a pwa resume + amp
 * [ ] Angular Universal and SEO
 
 # Ordibehesht
