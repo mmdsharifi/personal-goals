@@ -17,14 +17,16 @@ Personal goals made open source for accessibility across computers I use, transp
 
 [//]: # "categories: university, dev, study, health, blogging"
 
-* [ ] 📝 learn and write about progressive web apps + amp -> write in draft virgool.io
-* [ ] 📖 QR - chapter 30
-* [ ] 👨‍💻 dadman project
+* [ ] 📝 Redesign my pwa resume + amp -> write in draft virgool.io
+* [ ] 💖 Design and code my resume page
+* [ ] 📖 QR - chapter 30 - memories 7
+* [ ] 👨‍💻 Finish dadman project
 * [ ] 👨‍💻 B.T.S project
 * [ ] 💬 effort less english - one part per day
-* [ ] 📚 study book Know Can Do!
 * [ ] 📚 study marif-o-tarigh
-* [ ] 😍 getting started to study main article of U.I. course
+* [ ] ❤️ Getting started to study main article of U.I. course
+* [ ] 📒 Image Compression (CI) course - review chapter 1-4
+* [ ] 📃 CI course - Webp paper
 
 ### Things I'll Do This Month: Farvardin 96 🌺
 
