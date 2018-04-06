@@ -5,7 +5,7 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Overarching Gorals for 1397:
 
 1.  JavaScript, and Angular!
-2.  ‌More attention to my spiritual dimension
+2.  More attention to my spiritual dimension
 3.  Read books (e books, pod casts, paper books)
 4.  Running and Walking every day
 5.  Become full stack front end developer
