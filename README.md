@@ -17,16 +17,15 @@ Personal goals made open source for accessibility across computers I use, transp
 
 [//]: # "categories: university, dev, study, health, blogging"
 
+* [ ] 📒 Image Compression (CI) course - review chapter 1-4
+* [ ] 📃 Read UI paper - state of the art automatic evaluation of user interface
+* [ ] 👨‍💻 Finish dadman project
+* [ ] 📃 CI course - Webp paper
 * [ ] 📝 Redesign my pwa resume + amp -> write in draft virgool.io
 * [ ] 💖 Design and code my resume page
 * [ ] 📖 QR - chapter 30 - memories 7
-* [ ] 👨‍💻 Finish dadman project
-* [ ] 👨‍💻 B.T.S project
-* [ ] 💬 effort less english - one part per day
-* [ ] 📚 study marif-o-tarigh
-* [ ] ❤️ Getting started to study main article of U.I. course
-* [ ] 📒 Image Compression (CI) course - review chapter 1-4
-* [ ] 📃 CI course - Webp paper
+* [ ] 🚀 learn more about **state management** in angular
+* [ ] 🅰️ learn more about how to design in Adobe XD (by designing my resume and Q app)
 
 ### Things I'll Do This Month: Farvardin 96 🌺
 
