@@ -13,19 +13,16 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ### This Week's Focus: Progressive web apps
 
-## Things I'll do This Week:
+## Things I'll do This Week
 
 [//]: # "categories: university, dev, study, health, blogging"
 
-* [ ] 📒 Image Compression (CI) course - review chapter 1-4
-* [ ] 📃 Read UI paper - state of the art automatic evaluation of user interface
 * [ ] 👨‍💻 Finish dadman project
-* [ ] 📃 CI course - Webp paper
-* [ ] 📝 Redesign my pwa resume + amp -> write in draft virgool.io
-* [ ] 💖 Design and code my resume page
 * [ ] 📖 QR - chapter 30 - memories 7
-* [ ] 🚀 learn more about **state management** in angular
-* [ ] 🅰️ learn more about how to design in Adobe XD (by designing my resume and Q app)
+* [ ] 📃 Read UI paper - state of the art automatic evaluation of user interface
+* [ ] Write report of UI paper
+* [ ] Start JavaScript30 daily challenge!
+* [ ] Setup goals for feature work vision
 
 ### Things I'll Do This Month: Farvardin 96 🌺
 
